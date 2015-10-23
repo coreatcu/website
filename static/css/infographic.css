@@ -1,0 +1,146 @@
+.container {
+    height: 800px;
+    width: 900px;
+    position: absolute;
+    margin: auto;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+.stage {
+}
+
+#tech-circle {
+    transform-origin: 524.955px 267.082px;
+}
+
+#tech-gen:hover > #tech-circle {
+    transform: rotate(-90deg) scale(1.15, 1.15);
+}
+
+#dfirm-circle {
+    transform-origin: 629.734px 289.595px;
+}
+
+#dfirm-gen:hover > #dfirm-circle {
+    transform: rotate(63deg) scale(1.15, 1.15);
+}
+
+#sip-circle {
+    transform-origin: 283.836px 559.492px;
+}
+
+#sip-gen:hover > #sip-circle {
+    transform: rotate(18deg) scale(1.15, 1.15);
+}
+
+#writing-circle {
+    transform-origin: 285.904px 451.009px;
+}
+
+#writing-gen:hover > #writing-circle {
+    transform: rotate(-16deg) scale(1.15, 1.15);
+}
+
+#biz-circle {
+    transform-origin: 333.152px 354.495px;
+}
+
+#biz-gen:hover > #biz-circle {
+    transform: rotate(-42deg) scale(1.15, 1.15);
+}
+
+#dteam-circle {
+    transform-origin: 419.535px 289.672px;
+}
+
+#dteam-gen:hover > #dteam-circle {
+    transform: rotate(-64deg) scale(1.15, 1.15);
+}
+
+#alma-circle {
+    transform-origin: 715.227px 354.355px;
+}
+
+#alma-gen:hover > #alma-circle {
+    transform: rotate(31deg) scale(1.15, 1.15);
+}
+
+#keynote-circle {
+    transform-origin: 763.51px 450.835px;
+}
+
+#keynote-gen:hover > #keynote-circle {
+    transform: rotate(14deg) scale(1.15, 1.15);
+}
+
+#conf-circle {
+    transform-origin: 763.55px 559.739px;
+}
+
+#conf-gen:hover > #conf-circle {
+    transform: rotate(-19deg) scale(1.15, 1.15);
+}
+
+#themed-circle {
+    transform-origin: 715.338px 660.39px;
+}
+
+#themed-gen:hover > #themed-circle {
+    transform: rotate(-35deg) scale(1.15, 1.15);
+}
+
+#social-circle {
+    transform-origin: 629.895px 732.105px;
+}
+
+#social-gen:hover > #social-circle {
+    transform: rotate(-62deg) scale(1.15, 1.15);
+}
+
+#expo-circle {
+    transform-origin: 522.435px 758.39px;
+}
+
+#expo-gen:hover > #expo-circle {
+    transform: rotate(-90deg) scale(1.15, 1.15);
+}
+
+#glob-circle {
+    transform-origin: 412.418px 732.184px;
+}
+
+#glob-gen:hover > #glob-circle {
+    transform: rotate(62deg) scale(1.15, 1.15);
+}
+
+#ewop-circle {
+    transform-origin: 325.544px 660.532px;
+}
+
+#ewop-gen:hover > #ewop-circle {
+    transform: rotate(35deg) scale(1.15, 1.15);
+}
+
+[id$=circle] {
+    transition: transform 0.4s ease-in-out;
+}
+
+[id$=desc] {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+[id$=path]:hover > [id$=circle] {
+    transform: rotate(-20deg);
+}
+
+[id$=gen]:hover > [id$=desc] {
+    opacity: 1;
+}
+
+[id$=name]:hover, [id$=desc]:hover {
+    cursor: default;
+}
