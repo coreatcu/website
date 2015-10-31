@@ -33,6 +33,10 @@ def events():
 def initiatives():
     return render_template('initiatives.html', **data['initiatives'])
 
+@app.route('/jade')
+def jade():
+    return render_template('jade.html')
+
 @app.route('/apply')
 def apply():
     return render_template('apply.html')
