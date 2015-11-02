@@ -1,12 +1,12 @@
 
 {
-  "initiatives": [ 
+  "initiatives": [
 	 {
 		"type": "#StartupColumbia",
 		"label": "#StartupColumbia",
 		"description": "#StartupColumbia is an annual entrepreneurship festival held in the spring, coordinated by Columbia Entreprenership, CEO from the Columbia Business School, and CORE. The day-long event brings in speakers, alumni, and current students in a celebration of entrepreneurship. The festival also marks the conclusion of the Columbia Venture Competition, an annual $250,000 competition for Columbia students and young alums.",
 		"image": "static/img/initiatives/startup-columbia.jpg",
-		"link": "http://www.startupcolumbia.org" 
+		"link": "http://www.startupcolumbia.org"
 	},
 	{
 		"type": "Almaworks",
@@ -20,14 +20,14 @@
 		"label": "Ignite@CU",
 		"description": "Ignite@CU is an intercollegiate entrepreneurship weekend that is going to bring top undergraduate entrepreneurs together for a weekend of learning and networking!",
 		"image": "static/img/initiatives/ignite-logo.png",
-		"link": "http://ignite.coreatcu.com" 
+		"link": "http://ignite.coreatcu.com"
 	},
 	{
 		"type": "CORE Impulse",
 		"label": "Impulse",
 		"description": "CORE Impulse is CORE’s media outlet and voice of entrepreneurship on Columbia’s campus and throughout New York City, reaching an active audience of nearly 3,000 weekly visitors. We interview startups and entrepreneurs from around the world, craft beautiful designs as well as opinion pieces, and build tech products for the entrepreneurial student.",
 		"image": "static/img/initiatives/impulse-logo.jpg",
-		"link": "http://impulse.coreatcu.com/" 
+		"link": "http://impulse.coreatcu.com/"
 	},
 	{
 		"type": "Women@CORE",
@@ -48,21 +48,28 @@
 		"label": "SIP",
 		"description": "The Startup Internship Program (SIP) is an opportunity for students to get involved with startups in the spring semester. CORE partners with the CCE to bring students a great opportunity to get hands-on experience working at startups.",
 		"image": "static/img/initiatives/sip-logo.png",
-		"link": "https://www.careereducation.columbia.edu/findajob/cce-internship/sip" 
+		"link": "https://www.careereducation.columbia.edu/findajob/cce-internship/sip"
 	},
 	{
 		"type": "Startup Social",
 		"label": "Startup Social",
 		"description": "Startup Socials are biweekly events that embody the entrepreneurial spirit of our community. We have current undergraduates, masters and MBA students, and leading startup founders and venture capitalists from the city together in conversation. It allows everyone to just hang out and get to know each other or share ideas.",
 		"image": "static/img/initiatives/startup-social.jpg",
-		"link": "" 
+		"link": ""
 	},
 	{
 		"type": "Tech Treks",
 		"label": "Tech Treks",
 		"description": "For CORE's tech treks, students travel to a major tech hub around the world and explore that city’s tech scene by meeting with entrepreneurs and venture capitalists. We've visited Silicon Valley, London, and Paris. Companies we toured included VC firms like Accel Partners and Andreessen Horowitz, accelerators like NUMA, and tech powerhouses like Google, Facebook, and Palantir.",
 		"image": "static/img/initiatives/tech-trek.jpg",
-		"link": "" 
+		"link": ""
+	},
+  {
+		"type": "Winter Program",
+		"label": "Winter Program",
+		"description": "CORE & ADI's JADE winter program is an incredible week-long program in New York City! Together with a small group of other students, you'll be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
+		"image": "static/img/initiatives/wee.jpg",
+		"link": "jade"
 	}
   ]
 }
