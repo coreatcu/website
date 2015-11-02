@@ -37,10 +37,6 @@ def initiatives():
 def jade():
     return render_template('jade.html')
 
-@app.route('/apply')
-def apply():
-    return render_template('apply.html')
-
 @app.route('/infographic')
 def infographic():
     return render_template('infographic.html')
