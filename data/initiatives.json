@@ -67,9 +67,9 @@
 	{
 		"type": "Women@CORE",
 		"label": "Women@CORE",
-		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches selected highly-motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We believe that mentorship is most effective when formed naturally. Our mentorship program provides opportunities for mentees to meet many mentors and independently reach out to the ones they fit well. We have also hosted panels in the past such as \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries\".",
-		"image": "",
-		"link": ""
+		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches highly motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We have also hosted panels in the past such as \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries.\"",
+		"image": "static/img/initiatives/womenatcore-logo.jpg",
+		"link": "womenatcore"
 	}
   ]
 }
