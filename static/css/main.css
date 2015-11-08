@@ -125,14 +125,26 @@
   padding-bottom: 40px;
 }
 
+.gallery {
+  margin-left: 15%;
+}
+
+.gallery-image {
+  width: 40%;
+  margin: auto;
+  float: left;
+  display: block;
+  padding: 10px 10px 40px 10px;
+}
+
 .infographic {
   visibility: hidden;
 }
 
 .initiatives-card.mdl-card {
-  width: 40%;
+  width: 45%;
   height: 500px;
-  padding: 0px 10px 10px 10px;
+  padding: 0px 20px 10px 20px;
   position: relative;
 }
 
