@@ -16,13 +16,6 @@
 		"link": "http://www.alma.works"
 	},
 	{
-		"type": "Ignite@CU",
-		"label": "Ignite@CU",
-		"description": "Ignite@CU is bringing the top collegiate entrepreneurs and collegiate entrepreneurship students groups together for a weekend of learning and networking. Ignite@CU is on track to help shape the collegiate entrepreneurship ecosystem for years to come.",
-		"image": "static/img/initiatives/ignite-logo.png",
-		"link": "http://ignite.coreatcu.com"
-	},
-	{
 		"type": "CORE Impulse",
 		"label": "Impulse",
 		"description": "CORE Impulse is CORE’s media outlet and voice of entrepreneurship on Columbia’s campus and throughout New York City, reaching an active audience of nearly 3,000 weekly visitors. We interview startups and entrepreneurs from around the world, craft beautiful designs as well as opinion pieces, and build tech products for the entrepreneurial student.",
@@ -30,11 +23,11 @@
 		"link": "http://impulse.coreatcu.com/"
 	},
 	{
-		"type": "Women@CORE",
-		"label": "Women@CORE",
-		"description": "Women@The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches selected highly-motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We believe that mentorship is most effective when formed naturally. Thus, our mentorship program provides opportunities for mentees to meet many mentors and independently reach out to those that they click most with. We have also hosted panels in the past such as \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries\". Feel free to email Victoria (vml2123@columbia.edu) or Jamie (js4390@columbia.edu) if you’re interested in learning more!",
-		"image": "",
-		"link": ""
+		"type": "Ignite@CU",
+		"label": "Ignite@CU",
+		"description": "Ignite@CU is bringing the top collegiate entrepreneurs and collegiate entrepreneurship students groups together for a weekend of learning and networking. Ignite@CU is on track to help shape the collegiate entrepreneurship ecosystem for years to come.",
+		"image": "static/img/initiatives/ignite-logo.png",
+		"link": "http://ignite.coreatcu.com"
 	},
 	{
 		"type": "Speaker Events",
@@ -64,12 +57,19 @@
 		"image": "static/img/initiatives/tech-trek.jpg",
 		"link": ""
 	},
-  {
+  	{
 		"type": "Winter Program",
 		"label": "Winter Program",
-		"description": "CORE & ADI's JADE winter program is an incredible week-long program in New York City! Together with a small group of other students, you'll be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
+		"description": "CORE & ADI's JADE winter program is an immersive week-long program in New York City! A small group of students will be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
 		"image": "static/img/initiatives/wee.jpg",
 		"link": "jade"
+	},
+	{
+		"type": "Women@CORE",
+		"label": "Women@CORE",
+		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches selected highly-motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We believe that mentorship is most effective when formed naturally. Our mentorship program provides opportunities for mentees to meet many mentors and independently reach out to the ones they fit well. We have also hosted panels in the past such as \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries\".",
+		"image": "",
+		"link": ""
 	}
   ]
 }
