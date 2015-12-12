@@ -4,15 +4,6 @@
 		"type": "Executive Board",
 		"names": [
 			{
-				"name": "Anshul Gupta",
-				"pic": "static/img/people/anshul.jpg",
-				"byline": "SEAS '16, Computer Science",
-				"bio": "I've been in CORE since fall of my freshman year and have seen the organization grow vigorously from just a handful of overenthusiastic folks to a group of nearly seventy overenthusiastic folks. This past summer, I interned as a software developer intern at Bloomberg. I work on CORE's technical infrastructure, #StartupColumbia, and the Columbia Venture Competition.",
-				"socialmedia": {
-					"twitter": "http://twitter.com/anshulkgupta"
-				}
-			},
-			{
 				"name": "George Liu",
 				"pic": "static/img/people/george.jpg",
 				"byline": "CC '17, Economics",
@@ -134,6 +125,15 @@
 		"type": "Senior Advisors",
 		"names": [
 			{
+				"name": "Anshul Gupta",
+				"pic": "static/img/people/anshul.jpg",
+				"byline": "SEAS '16, Computer Science",
+				"bio": "I've been in CORE since fall of my freshman year and have seen the organization grow vigorously from just a handful of overenthusiastic folks to a group of nearly seventy overenthusiastic folks. This past summer, I interned as a software developer intern at Bloomberg. I work on CORE's technical infrastructure, #StartupColumbia, and the Columbia Venture Competition.",
+				"socialmedia": {
+					"twitter": "http://twitter.com/anshulkgupta"
+				}
+			},
+			{
 				"name": "Connie Long",
 				"pic": "static/img/people/connie.jpg",
 				"byline": "CC '16, Art History and Economics",
@@ -161,6 +161,11 @@
 		"type": "Operating Partners",
 		"names": [
 			{
+				"name": "Ahmad Maruf",
+				"pic": "static/img/people/ahmad.jpg",
+				"byline": "GS '15, Computer Science"
+			},
+			{
 				"name": "Amal Abid",
 				"pic": "static/img/people/amal.jpg",
 				"byline": "CC '17, Computer Science",
@@ -177,7 +182,7 @@
 			{
 				"name": "Erica Chan",
 				"pic": "static/img/people/erica.jpg",
-				"byline": "CC '17, Computer Science"
+				"byline": "CC '17, Political Science"
 			},
 			{
 				"name": "Gary Lin",
@@ -241,6 +246,11 @@
 		"type": "Operating Committee",
 		"names" : [
 			{
+				"name": "Abhiroop Gangopadhyay",
+				"pic": "static/img/people/abhiroop.jpg",
+				"byline": "SEAS '18, Computer Science"
+			},
+			{
 				"name": "Abigail Kim",
 				"pic": "static/img/people/abigail.jpg",
 				"byline": "BC '16, Art History",
@@ -251,9 +261,89 @@
 				}
 			},
 			{
+				"name": "Amulya Kandikonda",
+				"pic": "static/img/people/amulya.jpg",
+				"byline": "BC '19, Computer Science"
+			},
+			{
+				"name": "Chris Beltrone",
+				"pic": "static/img/people/chris.jpg",
+				"byline": "CC '18, Economics"
+			},
+			{
+				"name": "Danielle Niemann",
+				"pic": "static/img/people/danielle.jpg",
+				"byline": "CC '16, Film Studies"
+			},
+			{
+				"name": "Dennis Wei",
+				"pic": "static/img/people/dennis.jpg",
+				"byline": "SEAS '18, Computer Science"
+			},
+			{
+				"name": "Kevin Chu",
+				"pic": "static/img/people/kevin.jpg",
+				"byline": "SEAS '19, Computer Science"
+			},
+			{
+				"name": "Maegan Wang",
+				"pic": "static/img/people/maegan.jpg",
+				"byline": "CC '18, Economics"
+			},
+			{
 				"name": "Michelle Zheng",
 				"pic": "static/img/people/michelle-z.jpg",
 				"byline": "CC '16, Computer Science and Economics"
+			},
+			{
+				"name": "Mohamed Abedelmalik",
+				"pic": "static/img/people/mohamed.jpg",
+				"byline": "SEAS '19, Electrical Engineering"
+			},
+			{
+				"name": "Nikhil Thakkar",
+				"pic": "static/img/people/nikhil.jpg",
+				"byline": "CC '19, Economics"
+			},
+			{
+				"name": "Oriana Garty",
+				"pic": "static/img/people/oriana.jpg",
+				"byline": "GS '16, Political Science"
+			},
+			{
+				"name": "Rajiv Thamburaj",
+				"pic": "static/img/people/rajiv.jpg",
+				"byline": "SEAS '17, Computer Science"
+			},
+			{
+				"name": "Taylor Conlin",
+				"pic": "static/img/people/taylor-c.jpg",
+				"byline": "GS '19, Economics"
+			},
+			{
+				"name": "Taylor Pedicone",
+				"pic": "static/img/people/taylor-p.jpg",
+				"byline": "BC '16, Psychology"
+			},
+			{
+				"name": "Tenzan Wong",
+				"pic": "static/img/people/tenzan.jpg",
+				"byline": "GS '18, Economics"
+			},
+			{
+				"name": "Tessa Hurr",
+				"pic": "static/img/people/tessa.jpg",
+				"byline": "SEAS '18, Computer Science"
+			},
+			{
+				"name": "Tom Sherborne",
+				"pic": "static/img/people/tom.jpg",
+				"byline": "SEAS '17, Electrical Engineering"
+			},
+			{
+				"name": "Wynnie Newton",
+				"pic": "static/img/people/wynnie.jpg",
+				"byline": "BC '19, Economics"
 			}
 		]
 	}

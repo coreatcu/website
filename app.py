@@ -1,7 +1,7 @@
 from flask import Flask, redirect, render_template, request, url_for
 from flask_mail import Mail
 from flask.ext.mail import Message
-import json
+import simplejson
 import os
 
 app = Flask(__name__)
@@ -17,8 +17,8 @@ def load_data():
     global data
     for name, path in app.config['DATA_FILENAMES'].iteritems():
         path = os.path.join(os.path.dirname(__file__), path)
-        with open(path, 'r') as data_file:
-            data[name] = json.loads(data_file.read())
+        with open(path, 'r') as file:
+            data[name] = simplejson.load(file)
 
 @app.route('/')
 @app.route('/index')
