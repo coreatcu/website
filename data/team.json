@@ -16,8 +16,9 @@
 				"name": "Jackie Luo",
 				"pic": "static/img/people/jackie.jpg",
 				"byline": "CC '17, Computer Science and Philosophy",
-				"bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia and Ignite@CU, and I'm currently working on our technical infrastructure and the Silicon Valley tech trek. I interned this past summer at Percolate in New York.",
+				"bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm interning at a startup called Nylas. I'll be heading to work on the applied machine learning team at Apple this upcoming summer!",
 				"socialmedia": {
+					"external-link": "http://jackiehluo.github.io",
 					"twitter": "http://twitter.com/jackiehluo"
 				}
 			},
@@ -36,7 +37,7 @@
 				"pic": "static/img/people/jamie.jpg",
 				"title": "Secretary",
 				"byline": "SEAS '17, Computer Science",
-				"bio": "Jamie has worked on CORE Impulse, social media, and Women@CORE. She’s worked at a startup accelerator in South Korea and went to Draper University in San Mateo. Always down for coffee so feel free to reach out!",
+				"bio": "At CORE, I work on CORE Impulse, social media, and Women@CORE. In the past, I've worked at a startup accelerator in South Korea and went to Draper University in San Mateo. Always down for coffee so feel free to reach out!",
 				"socialmedia": {
 					"twitter": "http://twitter.com/jamiejysong"
 				}
@@ -45,7 +46,7 @@
 				"name": "Josh Zweig",
 				"pic": "static/img/people/josh.jpg",
 				"byline": "SEAS '18, Computer Science",
-				"bio": "Josh has worked on the Global Tech Treks and the Startup Internship Program, and is currently planning Ignite@CU. Josh is excited to help design the Internet of Things world, and in his spare time enjoys hard problems, adventure, and juggling.",
+				"bio": "I've worked on the global tech treks, the Startup Internship Program, and Ignite@CU. I'm excited to help design the Internet of Things world, and in my spare time I enjoy hard problems, adventure, and juggling.",
 				"socialmedia": {
 					"twitter": "http://twitter.com/original_jz"
 				}
@@ -95,7 +96,7 @@
 				"name": "Miranda Li",
 				"pic": "static/img/people/miranda.jpg",
 				"byline": "CC '17, Computer Science and Economics-Philosophy",
-				"bio": "I work with employers at CORE and leads the Startup Internship Program. I like spending time walking around New York aimlessly (and in the summers, San Francisco), introducing people to others, thinking, talking about philosophy, and attempting to sing. I'm studying abroad at Oxford next year but will strive to embody the CORE evangelist inside me while I'm there!",
+				"bio": "I work with employers at CORE and leads the Startup Internship Program. I like spending time walking around New York aimlessly (and in the summers, San Francisco), introducing people to others, thinking, talking about philosophy, and attempting to sing. I'm studying abroad at Oxford but strive to embody the CORE evangelist inside me while I'm there!",
 				"socialmedia": {
 					"twitter": "http://twitter.com/mirandajli"
 				}
@@ -104,8 +105,9 @@
 				"name": "Sara Sakowitz",
 				"pic": "static/img/people/sara.jpg",
 				"byline": "CC '18, Biochemistry",
-				"bio": "In the past, I've worked on #StartupColumbia and the Columbia Venture Competition, as well as some of our larger (and smaller!) speaker events. I'm also working on Ignite@CU this year. When I'm not working on CORE, I'm leading my own startup, Blue Moon Box. I'm also involved in cancer research and plan to pursue an MD/PhD after college.",
+				"bio": "In the past, I've co-directed Ignite@CU and helped lead the Intercollegiate Pitch Off. I've also worked on Almaworks and some of our larger (and smaller!) speaker events. I'm currently co-directing #StartupColumbia and the Columbia Venture Competition. When I'm not in a CORE meeting, I'm leading my own startups, Blue Moon Box and Liongram. I'm also involved in cancer research.",
 				"socialmedia": {
+					"external-link": "http://www.sarasakowitz.com",
 					"twitter": "http://twitter.com/sarasakowitz"
 				}
 			},
@@ -255,8 +257,7 @@
 				"pic": "static/img/people/abigail.jpg",
 				"byline": "BC '16, Art History",
 				"bio": "In fall 2014, I planned and moderated a panel on entrepreneurship in the fashion industry, featuring top-of-the-line fashion editors, bloggers, and designers. My focus in CORE has been on expanding our definition of entrepreneurship outside of tech to include innovators who push boundaries in creative fields. This year, I will be abroad, studying in Berlin, Germany.",
-				"socialmedia":
-				{
+				"socialmedia": {
 					"instagram": "https://instagram.com/abigailkim/"
 				}
 			},
@@ -283,7 +284,12 @@
 			{
 				"name": "Kevin Chu",
 				"pic": "static/img/people/kevin.jpg",
-				"byline": "SEAS '19, Computer Science"
+				"byline": "CC '19, Computer Science-Mathematics",
+				"bio": "Joining CORE made me reevaluate my priorities and reaffirmed my commitment to building things that matter. I'm a creative, and I've always believed in the power of words and design to make things happen. When not building the global tech treks and the Startup Internship Program with CORE, I can be found expanding my videography portfolio or exploring Asian American and LGBTQ activism.",
+				"socialmedia": {
+					"twitter": "https://twitter.com/imkevinchu",
+					"linkedin": "https://www.linkedin.com/in/imkevinchu"
+				}
 			},
 			{
 				"name": "Maegan Wang",
@@ -298,7 +304,11 @@
 			{
 				"name": "Mohamed Abedelmalik",
 				"pic": "static/img/people/mohamed.jpg",
-				"byline": "SEAS '19, Electrical Engineering"
+				"byline": "SEAS '19, Computer Engineering and Economics",
+				"bio": "I joined CORE the fall of my freshman year. I've worked on the Startup Internship Program, the Intercollegiate Pitch Off, and most recently I'm working on biotech panels for spring 2016. Through my past involvement with cancer research, I've realized that I'm really interested in cybersecurity and medical devices. I love to meet new people, so reach out to me and we can have coffee some time.",
+				"socialmedia": {
+					"external-link": "http://www.mohamedabedelmalik.com/"
+				}
 			},
 			{
 				"name": "Nikhil Thakkar",
@@ -308,7 +318,7 @@
 			{
 				"name": "Oriana Garty",
 				"pic": "static/img/people/oriana.jpg",
-				"byline": "GS '16, Political Science"
+				"byline": "GS '16, Economics-Political Science and Business"
 			},
 			{
 				"name": "Rajiv Thamburaj",
@@ -328,7 +338,12 @@
 			{
 				"name": "Tenzan Wong",
 				"pic": "static/img/people/tenzan.jpg",
-				"byline": "GS '18, Economics"
+				"byline": "GS '18, Economics",
+				"bio": "I was born in Singapore and served in the Singapore Armed Forces. Home is in Hong Kong, and I was previously schooled in the UK. I'm currently pursuing a degree in economics at Columbia, and my interests include tennis, skiing, and rugby.",
+				"socialmedia": {
+					"linkedin": "https://www.linkedin.com/in/tenzan-wong-55a957a6",
+					"instagram": "https://www.instagram.com/tenzanwong/"
+				}
 			},
 			{
 				"name": "Tessa Hurr",
