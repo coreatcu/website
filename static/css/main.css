@@ -9,13 +9,14 @@
 }
 
 .home-wrapper img {
-  min-height: 100%;
-  min-width: 100%;
-  width: auto;
-  height: 100%;
+  max-width: 100%;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  overflow: auto;
   position: fixed;
-  top: 5%;
-  left: -8%;
+  right: 0;
+  top: 0;
 }
 
 .home-wrapper-text h1 {
@@ -27,7 +28,7 @@
 .home-wrapper-text {
     position: absolute;
     left: 15%;
-    bottom: 10%;
+    bottom: 15%;
 }
 
 .home-second-button {
@@ -125,14 +126,26 @@
   padding-bottom: 40px;
 }
 
+.gallery {
+  margin-left: 15%;
+}
+
+.gallery-image {
+  width: 40%;
+  margin: auto;
+  float: left;
+  display: block;
+  padding: 10px 10px 40px 10px;
+}
+
 .infographic {
   visibility: hidden;
 }
 
 .initiatives-card.mdl-card {
-  width: 40%;
+  width: 45%;
   height: 500px;
-  padding: 0px 10px 10px 10px;
+  padding: 0px 20px 10px 20px;
   position: relative;
 }
 
