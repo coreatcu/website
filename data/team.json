@@ -211,9 +211,11 @@
 			{
 				"name": "Mayank Mahajan",
 				"pic": "static/img/people/mayank.jpg",
-				"byline": "SEAS '17, Computer Science",
+				"byline": "SEAS '17, Computer Science and Entrepreneurship",
+				"bio": "Hey! My name's Mayank - I'm a third year in SEAS. I've been a member of CORE for five semesters and an OP for two, and I'm currently involved with #StartupColumbia as well as volunteering in several of CORE's higher profile events. In addition to CORE, I dance for Columbia Raas and serve on the Engineering Student Council. Hit me up if you want to grab coffee!",
 				"socialmedia": {
-					"twitter": "http://twitter.com/mayanktho"
+					"instagram": "www.instagram.com/mayanktho",
+					"linkedin": "www.linkedin.com/in/mmahajan24"
 				}
 			},
 			{
