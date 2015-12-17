@@ -21,7 +21,7 @@ To update the live website to the latest version from GitHub:
 ssh coreboard@web509.webfaction.com
 cd webapps/coreflask/coreflask
 git pull
-../apache2/bin/restart
+./../deployment.sh
 ```
 
 ## Material Design vs. Bootstrap
