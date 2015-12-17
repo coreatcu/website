@@ -178,13 +178,18 @@
 			{
 				"name": "Christy Chung",
 				"pic": "static/img/people/christy.jpg",
-				"byline": "CC '17, Economics",
-				"bio": "Since fall semester of 2014, I have been involved in social entrepreneuship and event coordination in CORE. I am also interested in the intersection between education and social entrepreneurship! I was a summer intern at CLSA (Credit Lyonnais Securities Asia) and Hong Kong Refugee Advice Center. I also love reading and traveling!"
+				"byline": "CC '18, Classics",
+				"bio": "I am interested in connecting humanities with anything entrepreneurial!"
 			},
 			{
 				"name": "Erica Chan",
 				"pic": "static/img/people/erica.jpg",
-				"byline": "CC '17, Political Science"
+				"byline": "CC '17, Political Science and East Asian Studies",
+				"bio": "As an OP, I have long been involved in CORE initiatives such as the global tech treks, Women@CORE mentorship, and speaker events. In my spare time, you can find me taking pictures around Manhattan, especially of food. Let's take over the world together, one bite at a time!",
+				"socialmedia": {
+					"instagram": "https://instagram.com/chantieri",
+					"linkedin": "https://www.linkedin.com/in/ericahchan"
+				}
 			},
 			{
 				"name": "Gary Lin",
@@ -194,9 +199,11 @@
 			{
 				"name": "Karen Yuan",
 				"pic": "static/img/people/karen.jpg",
-				"byline": "CC '16, Creative Writing",
+				"byline": "CC '17, Creative Writing",
+				"bio": "I work on social media for CORE. In the past, I've co-organized CORE's digital media conference and NYC tech treks. I'm psyched about all things digital and all things media, especially innovative journalism. And I'm constantly inspired by my CORE peers.",
 				"socialmedia": {
-					"twitter": "http://twitter.com/karenyuan_"
+					"twitter": "http://twitter.com/karenyuan_",
+					"external-link": "https://about.me/karenyuan"
 				}
 			},
 			{
@@ -242,7 +249,7 @@
 				"name": "Zach Gleicher",
 				"pic": "static/img/people/zach.jpg",
 				"byline": "CC '16, Computer Science",
-				"bio": "The past three summers, I've interned at Qualcomm and Google. Currently, I'm working on Almaworks, CORE's student-run accelerator. Long-term, I hope to get involved in an early-stage technology startup or launch my own venture."
+				"bio": "I will be graduating in the spring and moving to San Francisco to work full-time at Google! Currently, I'm working on Almaworks, CORE's student-run accelerator. Long-term, I hope to get involved in an early-stage technology startup or launch my own venture."
 			}
 		]
 	},
@@ -350,7 +357,12 @@
 			{
 				"name": "Tessa Hurr",
 				"pic": "static/img/people/tessa.jpg",
-				"byline": "SEAS '18, Computer Science"
+				"byline": "SEAS '18, Computer Science",
+				"bio": "Since joining CORE in the fall of 2015, I've helped work on initiatives including the JADE winter program. I'm interested in the intersection between art and technology and in the past have interned for Broadcom and Microsoft. In my spare time, I like to watch spoken word poetry, take photos with my disposable camera, and find acoustic covers of hip hop and rap songs.",
+				"socialmedia": {
+					"linkedin": "https://www.linkedin.com/in/tessahurr",
+					"instagram": "https://www.instagram.com/tessahurr"
+				}
 			},
 			{
 				"name": "Tom Sherborne",
