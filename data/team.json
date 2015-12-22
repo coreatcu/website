@@ -18,7 +18,7 @@
 				"byline": "CC '17, Computer Science and Philosophy",
 				"bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm interning at a startup called Nylas. I'll be heading to work on the applied machine learning team at Apple this upcoming summer!",
 				"socialmedia": {
-					"external-link": "http://jackiehluo.github.io",
+					"link": "http://jackiehluo.github.io",
 					"twitter": "http://twitter.com/jackiehluo"
 				}
 			},
@@ -107,7 +107,7 @@
 				"byline": "CC '18, Biochemistry",
 				"bio": "In the past, I've co-directed Ignite@CU and helped lead the Intercollegiate Pitch Off. I've also worked on Almaworks and some of our larger (and smaller!) speaker events. I'm currently co-directing #StartupColumbia and the Columbia Venture Competition. When I'm not in a CORE meeting, I'm leading my own startups, Blue Moon Box and Liongram. I'm also involved in cancer research.",
 				"socialmedia": {
-					"external-link": "http://www.sarasakowitz.com",
+					"link": "http://www.sarasakowitz.com",
 					"twitter": "http://twitter.com/sarasakowitz"
 				}
 			},
@@ -205,7 +205,7 @@
 				"byline": "CC '16, Economics and Psychology",
 				"bio": "I joined CORE at the beginning of my sophomore year and have been involved with initiatives like organizing dinners with entrepreneurs and building community within CORE. I fell in love with startups after interning at a wedding startup in Chicago. Hobbies include sleeping, taking walks, playing piano, reading, and memorizing poetry.",
 				"socialmedia": {
-					"external-link": "http://kwald345.wix.com/kristina-with-a-k"
+					"link": "http://kwald345.wix.com/kristina-with-a-k"
 				}
 			},
 			{
@@ -264,7 +264,11 @@
 			{
 				"name": "Amulya Kandikonda",
 				"pic": "static/img/people/amulya.jpg",
-				"byline": "BC '19, Computer Science"
+				"byline": "BC '19, Computer Science and Economics",
+				"bio": "As a freshman in fall 2015, I worked on the Almaworks team, the first Intercollegiate Pitch Off, and Women@CORE. I'm always thinking about how tech can build global communities and solve small or large-scale social problems. In my spare time, I love to cook and listen to my constantly growing Spotify playlists.",
+				"socialmedia": {
+					"linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
+				}
 			},
 			{
 				"name": "Chris Beltrone",
@@ -307,7 +311,7 @@
 				"byline": "SEAS '19, Computer Engineering and Economics",
 				"bio": "I joined CORE the fall of my freshman year. I've worked on the Startup Internship Program, the Intercollegiate Pitch Off, and most recently I'm working on biotech panels for spring 2016. Through my past involvement with cancer research, I've realized that I'm really interested in cybersecurity and medical devices. I love to meet new people, so reach out to me and we can have coffee some time.",
 				"socialmedia": {
-					"external-link": "http://www.mohamedabedelmalik.com/"
+					"link": "http://www.mohamedabedelmalik.com/"
 				}
 			},
 			{
