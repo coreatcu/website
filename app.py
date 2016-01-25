@@ -37,6 +37,10 @@ def jade():
 def womenatcore():
     return render_template('womenatcore.html')
 
+@app.route('/corecircles')
+def corecircles():
+    return render_template('corecircles.html')
+
 @app.route('/infographic')
 def infographic():
     return render_template('infographic.html')

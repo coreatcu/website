@@ -16,6 +16,13 @@
 		"link": "http://www.alma.works"
 	},
 	{
+		"type": "CORE Circles",
+		"label": "CORE Circles",
+		"description": "CORE Circles is a two month program where you explore a specific sector of entrepreneurship with a static group of people. Meet the people that helped define the industry and visit the places where this transofrmation happened.",
+		"image": "static/img/initiatives/circles.jpg",
+		"link": "corecircles"
+	},
+	{
 		"type": "CORE Impulse",
 		"label": "Impulse",
 		"description": "CORE Impulse is CORE’s media outlet and voice of entrepreneurship on Columbia’s campus and throughout New York City, reaching an active audience of nearly 3,000 weekly visitors. We interview startups and entrepreneurs from around the world, craft beautiful designs as well as opinion pieces, and build tech products for the entrepreneurial student.",
