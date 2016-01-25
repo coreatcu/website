@@ -16,6 +16,13 @@
 		"link": "http://www.alma.works"
 	},
 	{
+		"type": "CORE Circles",
+		"label": "CORE Circles",
+		"description": "CORE Circles is a semester long program where tight-knit groups of students come together every week and learn about startups in a specific sector through events and company visits. It is a great way to learn more about the startup world while being part of a group of like-minded peers, all in a low stress environment! ",
+		"image": "static/img/initiatives/circles.jpg",
+		"link": "corecircles"
+	},
+	{
 		"type": "CORE Impulse",
 		"label": "Impulse",
 		"description": "CORE Impulse is CORE’s media outlet and voice of entrepreneurship on Columbia’s campus and throughout New York City, reaching an active audience of nearly 3,000 weekly visitors. We interview startups and entrepreneurs from around the world, craft beautiful designs as well as opinion pieces, and build tech products for the entrepreneurial student.",
@@ -55,7 +62,7 @@
 		"label": "Tech Treks",
 		"description": "For CORE's tech treks, students travel to a major tech hub around the world and explore that city’s tech scene by meeting with entrepreneurs and venture capitalists. We've visited Silicon Valley, London, and Paris. Companies we toured included VC firms like Accel Partners and Andreessen Horowitz, accelerators like NUMA, and tech powerhouses like Google, Facebook, and Palantir.",
 		"image": "static/img/initiatives/tech-trek.jpg",
-		"link": ""
+		"link": "http://techtreks.coreatcu.com/"
 	},
   	{
 		"type": "Winter Program",
