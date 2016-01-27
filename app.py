@@ -25,10 +25,6 @@ def load_data():
 def index():
     return render_template('index.html')
 
-@app.route('/events')
-def events():
-    return render_template('events.html')
-
 @app.route('/initiatives')
 def initiatives():
     return render_template('initiatives.html', **data['initiatives'])
@@ -40,6 +36,10 @@ def jade():
 @app.route('/womenatcore')
 def womenatcore():
     return render_template('womenatcore.html')
+
+@app.route('/corecircles')
+def corecircles():
+    return render_template('corecircles.html')
 
 @app.route('/infographic')
 def infographic():
@@ -61,6 +61,10 @@ def contact():
         mail.send(msg)
         return redirect(url_for('index'))
     return render_template('contact.html', form=form)
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
 
 load_data()
 
