@@ -33,9 +33,17 @@ def initiatives():
 def jade():
     return render_template('jade.html')
 
+@app.route('/cvc')
+def cvc():
+    return render_template('cvc.html')
+
 @app.route('/womenatcore')
 def womenatcore():
     return render_template('womenatcore.html')
+
+@app.route('/corecircles')
+def corecircles():
+    return render_template('corecircles.html')
 
 @app.route('/infographic')
 def infographic():
