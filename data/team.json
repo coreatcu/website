@@ -4,25 +4,6 @@
 		"type": "Executive Board",
 		"names": [
 			{
-				"name": "George Liu",
-				"pic": "static/img/people/george.jpg",
-				"byline": "CC '17, Economics",
-				"bio": "My past initiatives include serving as CORE's treasurer, leading the How to Start a Startup discussion seminars, co-organizing the CORE Product Challenge, and running CORE 3D printing initiatives. I'm currently the executive director of Almaworks, Columbia University's fall startup accelerator for New York college entrepreneurs.",
-				"socialmedia": {
-					"twitter": "http://twitter.com/gxzliu"
-				}
-			},
-			{
-				"name": "Jackie Luo",
-				"pic": "static/img/people/jackie.jpg",
-				"byline": "CC '17, Computer Science and Philosophy",
-				"bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm interning at a startup called Nylas. I'll be heading to work on the applied machine learning team at Apple this upcoming summer!",
-				"socialmedia": {
-					"link": "http://jackiehluo.github.io",
-					"twitter": "http://twitter.com/jackiehluo"
-				}
-			},
-			{
 				"name": "James Xue",
 				"pic": "static/img/people/james.jpg",
 				"title": "Editor-in-Chief of Impulse",
@@ -85,14 +66,6 @@
 				}
 			},
 			{
-				"name": "Michelle Tan",
-				"pic": "static/img/people/michelle-t.jpg",
-				"byline": "CC '16, Economics and History",
-				"socialmedia": {
-					"twitter": "http://twitter.com/qiuyuntan"
-				}
-			},
-			{
 				"name": "Miranda Li",
 				"pic": "static/img/people/miranda.jpg",
 				"byline": "CC '17, Computer Science and Economics-Philosophy",
@@ -145,9 +118,36 @@
 				}
 			},
 			{
+				"name": "George Liu",
+				"pic": "static/img/people/george.jpg",
+				"byline": "CC '17, Economics",
+				"bio": "My past initiatives include serving as CORE's treasurer, leading the How to Start a Startup discussion seminars, co-organizing the CORE Product Challenge, and running CORE 3D printing initiatives. I'm currently the executive director of Almaworks, Columbia University's fall startup accelerator for New York college entrepreneurs.",
+				"socialmedia": {
+					"twitter": "http://twitter.com/gxzliu"
+				}
+			},
+			{
+				"name": "Jackie Luo",
+				"pic": "static/img/people/jackie.jpg",
+				"byline": "CC '17, Computer Science and Philosophy",
+				"bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm interning at a startup called Nylas. I'll be heading to work on the applied machine learning team at Apple this upcoming summer!",
+				"socialmedia": {
+					"link": "http://jackiehluo.github.io",
+					"twitter": "http://twitter.com/jackiehluo"
+				}
+			},
+			{
 				"name": "Jiaying Lim",
 				"pic": "static/img/people/jiaying.jpg",
 				"byline": "CC '17, Economics-Political Science"
+			},
+			{
+				"name": "Michelle Tan",
+				"pic": "static/img/people/michelle-t.jpg",
+				"byline": "CC '16, Economics and History",
+				"socialmedia": {
+					"twitter": "http://twitter.com/qiuyuntan"
+				}
 			},
 			{
 				"name": "Nik Nayar",
