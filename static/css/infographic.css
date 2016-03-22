@@ -144,3 +144,31 @@
 [id$=name]:hover, [id$=desc]:hover {
     cursor: default;
 }
+
+#preview{
+    margin:50px;
+}
+img.infographic-preview{
+    width: 300px;
+    max-height: 500px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    float: left;
+    margin-right: 50px;
+}
+
+#stage{
+    position:relative;
+    height:100%;
+    padding-top: 20px;
+    margin-top: 70px;
+}
