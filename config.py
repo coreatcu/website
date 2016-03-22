@@ -16,3 +16,5 @@ MAIL_USE_SSL = True
 MAIL_USERNAME = 'coreatcu@gmail.com'
 MAIL_PASSWORD = 'passwordgoeshere'
 MAIL_DEFAULT_SENDER = 'coreboard@columbia.edu'
+RECAPTCHA_PUBLIC_KEY = 'public_key'
+RECAPTCHA_PRIVATE_KEY = 'private_key'
