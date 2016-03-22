@@ -166,6 +166,9 @@ span {
     margin-right: 50px;
 }
 
-svg {
-    margin-top: 10%;
+#stage{
+    position:relative;
+    height:100%;
+    padding-top: 20px;
+    margin-top: 50px;
 }
