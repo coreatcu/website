@@ -45,9 +45,13 @@ def womenatcore():
 def corecircles():
     return render_template('corecircles.html')
 
-@app.route('/infographic')
+@app.route('/infographic/')
 def infographic():
-    return render_template('infographic.html')
+    return render_template('infographic.html', infographic="preview")
+
+@app.route('/infographic/<infographic_item>')
+def infographic_path(infographic_item):
+    return render_template('infographic.html', infographic=infographic_item)
 
 @app.route('/team')
 def team():

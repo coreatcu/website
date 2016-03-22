@@ -79,12 +79,12 @@
                 <use xlink:href="#XMLID_7_"  overflow="visible"/>
             </clipPath>
             <g transform="matrix(1 0 0 1 0 3.051758e-05)" clip-path="url(#XMLID_13_)">
-                
-                    <image overflow="visible" width="2400" height="960" id="XMLID_8_" xlink:href="static/img/infographic_logo.png" transform="matrix(0.2929 0 0 0.2929 360.9745 374.3805)">
+
+                    <image overflow="visible" width="2400" height="960" id="XMLID_8_" xlink:href="/static/img/infographic_logo.png" transform="matrix(0.2929 0 0 0.2929 360.9745 374.3805)">
                 </image>
             </g>
         </g>
-        
+
             <text id="XMLID_6_" transform="matrix(1 0 0 1 464.8306 473.562)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" font-family="'ProximaNova-Regular'" font-size="18.9135px">WELCOME TO</text>
     </g>
 </g>

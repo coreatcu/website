@@ -22,8 +22,18 @@
     {{ form.message(class="mdl-textfield__input", type="text", rows=6) }}
     <label class="mdl-textfield__label">Message</label>
     </div><br>
+    <div class="recaptcha">
+        {% for error in form.recaptcha.errors %}
+           {{ error }}
+        {% endfor %}
+        {{ form.recaptcha }} 
+    </div>
+    <h1></h1>
     <button type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">SUBMIT</button>
   </form>
+  <br>
+  <br>
+  <br>
 </div>
 
 {% endblock %}
