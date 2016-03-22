@@ -165,3 +165,7 @@ span {
     float: left;
     margin-right: 50px;
 }
+
+svg {
+    margin-top: 10%;
+}
