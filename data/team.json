@@ -4,6 +4,11 @@
 		"type": "Executive Board",
 		"names": [
 			{
+				"name": "Dennis Wei",
+				"pic": "static/img/people/dennis.jpg",
+				"byline": "SEAS '18, Computer Science"
+			},
+			{
 				"name": "James Xue",
 				"pic": "static/img/people/james.jpg",
 				"title": "Editor-in-Chief of Impulse",
@@ -42,6 +47,17 @@
 				}
 			},
 			{
+				"name": "Kevin Chu",
+				"pic": "static/img/people/kevin.jpg",
+				"byline": "CC '19, Computer Science-Mathematics",
+				"bio": "Joining CORE made me reevaluate my priorities and reaffirmed my commitment to building things that matter. I'm a creative, and I've always believed in the power of words and design to make things happen. When not building the global tech treks and the Startup Internship Program with CORE, I can be found expanding my videography portfolio or exploring Asian American and LGBTQ activism.",
+				"socialmedia": {
+					"twitter": "https://twitter.com/imkevinchu",
+					"linkedin": "https://www.linkedin.com/in/imkevinchu",
+					"website": "http://kevinchu.io/"
+				}
+			},
+			{
 				"name": "Kimberly Hou",
 				"pic": "static/img/people/kimberly.jpg",
 				"title": "Vice President",
@@ -75,6 +91,15 @@
 				}
 			},
 			{
+				"name": "Sahir Jaggi",
+				"pic": "static/img/people/sahir.jpg",
+				"byline": "SEAS '17, Biomedical Engineering",
+				"bio": "I'm a founding member of the Columbia Makerspace and currently working on CORE's entrepreneurship orientation program, which introduces first-year students to the startup world.",
+				"socialmedia": {
+					"twitter": "http://twitter.com/sahirjaggi"
+				}
+			},
+			{
 				"name": "Sara Sakowitz",
 				"pic": "static/img/people/sara.jpg",
 				"byline": "CC '18, Biochemistry",
@@ -93,7 +118,17 @@
 				"socialmedia": {
 					"twitter": "http://twitter.com/simonamschwartz"
 				}
-			}
+			},
+			{
+				"name": "Taylor Pedicone",
+				"pic": "static/img/people/taylor-p.jpg",
+				"byline": "BC '16, Psychology"
+			},
+			{
+				"name": "Tom Sherborne",
+				"pic": "static/img/people/tom.jpg",
+				"byline": "SEAS '17, Electrical Engineering"
+			},
 		]
 	},
 	{
@@ -226,15 +261,6 @@
 				}
 			},
 			{
-				"name": "Sahir Jaggi",
-				"pic": "static/img/people/sahir.jpg",
-				"byline": "SEAS '17, Biomedical Engineering",
-				"bio": "I'm a founding member of the Columbia Makerspace and currently working on CORE's entrepreneurship orientation program, which introduces first-year students to the startup world.",
-				"socialmedia": {
-					"twitter": "http://twitter.com/sahirjaggi"
-				}
-			},
-			{
 				"name": "Tony Li",
 				"pic": "static/img/people/tony.jpg",
 				"byline": "CC '18, Computer Science"
@@ -290,21 +316,6 @@
 				"byline": "CC '16, Film Studies"
 			},
 			{
-				"name": "Dennis Wei",
-				"pic": "static/img/people/dennis.jpg",
-				"byline": "SEAS '18, Computer Science"
-			},
-			{
-				"name": "Kevin Chu",
-				"pic": "static/img/people/kevin.jpg",
-				"byline": "CC '19, Computer Science-Mathematics",
-				"bio": "Joining CORE made me reevaluate my priorities and reaffirmed my commitment to building things that matter. I'm a creative, and I've always believed in the power of words and design to make things happen. When not building the global tech treks and the Startup Internship Program with CORE, I can be found expanding my videography portfolio or exploring Asian American and LGBTQ activism.",
-				"socialmedia": {
-					"twitter": "https://twitter.com/imkevinchu",
-					"linkedin": "https://www.linkedin.com/in/imkevinchu"
-				}
-			},
-			{
 				"name": "Maegan Wang",
 				"pic": "static/img/people/maegan.jpg",
 				"byline": "CC '18, Economics"
@@ -344,11 +355,6 @@
 				"byline": "GS '19, Economics"
 			},
 			{
-				"name": "Taylor Pedicone",
-				"pic": "static/img/people/taylor-p.jpg",
-				"byline": "BC '16, Psychology"
-			},
-			{
 				"name": "Tenzan Wong",
 				"pic": "static/img/people/tenzan.jpg",
 				"byline": "GS '18, Economics",
@@ -367,11 +373,6 @@
 					"linkedin": "https://www.linkedin.com/in/tessahurr",
 					"instagram": "https://www.instagram.com/tessahurr"
 				}
-			},
-			{
-				"name": "Tom Sherborne",
-				"pic": "static/img/people/tom.jpg",
-				"byline": "SEAS '17, Electrical Engineering"
 			},
 			{
 				"name": "Wynnie Newton",
