@@ -93,6 +93,11 @@
 				}
 			},
 			{
+				"name": "Oriana Garty",
+				"pic": "static/img/people/oriana.jpg",
+				"byline": "GS '16, Economics-Political Science and Business"
+			},
+			{
 				"name": "Sahir Jaggi",
 				"pic": "static/img/people/sahir.jpg",
 				"byline": "SEAS '17, Biomedical Engineering",
@@ -340,11 +345,6 @@
 				"name": "Nikhil Thakkar",
 				"pic": "static/img/people/nikhil.jpg",
 				"byline": "CC '19, Economics"
-			},
-			{
-				"name": "Oriana Garty",
-				"pic": "static/img/people/oriana.jpg",
-				"byline": "GS '16, Economics-Political Science and Business"
 			},
 			{
 				"name": "Rajiv Thamburaj",
