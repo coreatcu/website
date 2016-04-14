@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/infographic.css') }}">
-{% if infographic != "preview" %}
 <script src="{{ url_for('static', filename='js/infographic.js') }}"></script>
 <script type="text/javascript">
   setInfographic("{{ infographic }}")
@@ -10,20 +9,4 @@
     <div id="stage">
     </div>
 </div>
-{% else %}
-<div id="preview">
-    <span>
-      <a href="./about-CORE">
-        <div>About Core</div>
-        <img class="infographic-preview" src="{{ url_for('static', filename='img/infographic/about-CORE/about-core.svg') }}">
-      </a>
-    </span>
-    <span>
-      <a href="./logo-evolution">
-        <div>Logo Evolution</div>
-        <img class="infographic-preview" src="{{ url_for('static', filename='img/infographic/logo-evolution/preview.png') }}" alt="">
-      </a>
-    </span>
-</div>
-{% endif %}
 {% endblock %}

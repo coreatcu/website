@@ -49,10 +49,6 @@ def corecircles():
 def housing_16_17():
     return redirect("https:\/\/docs.google.com/spreadsheets/d/1Mn6v5vvHK5pr1A_EWYtr9HfRU3tB7fmvUCwETlDHhW8/edit?usp=sharing")
 
-@app.route('/infographic/')
-def infographic():
-    return render_template('infographic.html', infographic="preview")
-
 @app.route('/infographic/<infographic_item>')
 def infographic_path(infographic_item):
     return render_template('infographic.html', infographic=infographic_item)

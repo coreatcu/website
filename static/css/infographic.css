@@ -9,9 +9,6 @@
     left: 0px;
 }
 
-.stage {
-}
-
 #tech-circle {
     transform-origin: 524.955px 267.082px;
 }
@@ -148,7 +145,7 @@
 #preview{
     margin:50px;
 }
-img.infographic-preview{
+img.infographic-preview {
     width: 300px;
     max-height: 500px;
 }
@@ -166,7 +163,7 @@ span {
     margin-right: 50px;
 }
 
-#stage{
+#stage {
     position:relative;
     height:100%;
     padding-top: 20px;
