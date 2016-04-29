@@ -4,6 +4,15 @@
     "type": "Executive Board",
     "names": [
       {
+        "name": "Amulya Kandikonda",
+        "pic": "static/img/people/amulya.jpg",
+        "byline": "BC '19, Computer Science and Economics",
+        "bio": "As a freshman in fall 2015, I worked on the Almaworks team, the first Intercollegiate Pitch Off, and Women@CORE. I'm always thinking about how tech can build global communities and solve small or large-scale social problems. In my spare time, I love to cook and listen to my constantly growing Spotify playlists.",
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
+        }
+      },
+      {
         "name": "Dennis Wei",
         "title": "Treasurer",
         "pic": "static/img/people/dennis.jpg",
@@ -68,6 +77,11 @@
         }
       },
       {
+        "name": "Maegan Wang",
+        "pic": "static/img/people/maegan.jpg",
+        "byline": "CC '18, Economics"
+      },
+      {
         "name": "Max Rosenberg",
         "pic": "static/img/people/max.jpg",
         "byline": "CC '18, Economics"
@@ -89,6 +103,15 @@
         "bio": "I work with employers at CORE and leads the Startup Internship Program. I like spending time walking around New York aimlessly (and in the summers, San Francisco), introducing people to others, thinking, talking about philosophy, and attempting to sing. I'm studying abroad at Oxford but strive to embody the CORE evangelist inside me while I'm there!",
         "socialmedia": {
           "twitter": "http://twitter.com/mirandajli"
+        }
+      },
+      {
+        "name": "Mohamed Abedelmalik",
+        "pic": "static/img/people/mohamed.jpg",
+        "byline": "SEAS '19, Computer Engineering and Economics",
+        "bio": "I joined CORE the fall of my freshman year. I've worked on the Startup Internship Program, the Intercollegiate Pitch Off, and most recently I'm working on biotech panels for spring 2016. Through my past involvement with cancer research, I've realized that I'm really interested in cybersecurity and medical devices. I love to meet new people, so reach out to me and we can have coffee some time.",
+        "socialmedia": {
+          "link": "http://www.mohamedabedelmalik.com/"
         }
       },
       {
@@ -298,15 +321,6 @@
         }
       },
       {
-        "name": "Amulya Kandikonda",
-        "pic": "static/img/people/amulya.jpg",
-        "byline": "BC '19, Computer Science and Economics",
-        "bio": "As a freshman in fall 2015, I worked on the Almaworks team, the first Intercollegiate Pitch Off, and Women@CORE. I'm always thinking about how tech can build global communities and solve small or large-scale social problems. In my spare time, I love to cook and listen to my constantly growing Spotify playlists.",
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
-        }
-      },
-      {
         "name": "Chris Beltrone",
         "pic": "static/img/people/chris.jpg",
         "byline": "CC '18, Economics"
@@ -317,23 +331,9 @@
         "byline": "CC '16, Film Studies"
       },
       {
-        "name": "Maegan Wang",
-        "pic": "static/img/people/maegan.jpg",
-        "byline": "CC '18, Economics"
-      },
-      {
         "name": "Michelle Zheng",
         "pic": "static/img/people/michelle-z.jpg",
         "byline": "CC '16, Computer Science and Economics"
-      },
-      {
-        "name": "Mohamed Abedelmalik",
-        "pic": "static/img/people/mohamed.jpg",
-        "byline": "SEAS '19, Computer Engineering and Economics",
-        "bio": "I joined CORE the fall of my freshman year. I've worked on the Startup Internship Program, the Intercollegiate Pitch Off, and most recently I'm working on biotech panels for spring 2016. Through my past involvement with cancer research, I've realized that I'm really interested in cybersecurity and medical devices. I love to meet new people, so reach out to me and we can have coffee some time.",
-        "socialmedia": {
-          "link": "http://www.mohamedabedelmalik.com/"
-        }
       },
       {
         "name": "Nikhil Thakkar",
