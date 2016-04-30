@@ -1,4 +1,3 @@
-
 {
   "initiatives": [
 	 {
@@ -32,14 +31,14 @@
 	{
 		"type": "Ignite@CU",
 		"label": "Ignite@CU",
-		"description": "Ignite@CU is bringing the top collegiate entrepreneurs and collegiate entrepreneurship students groups together for a weekend of learning and networking. Ignite@CU is on track to help shape the collegiate entrepreneurship ecosystem for years to come.",
+		"description": "Ignite@CU is bringing the top collegiate entrepreneurs together for a weekend of learning and networking. We collaborate with groups at schools like Harvard, Yale, Penn, and more.",
 		"image": "static/img/initiatives/ignite-logo.png",
 		"link": "http://ignite.coreatcu.com"
 	},
 	{
-		"type": "Speaker Events",
-		"label": "Speaker Events",
-		"description": "We host speaker series throughout the year to keep with our mission of inspiring and educating the next generation of Columbia entrepreneurs. In the past we've had Jack Dorsey (Square and Twitter) and Peter Thiel (PayPal and Palantir) kick off our year-long speaker series.",
+		"type": "Talks",
+		"label": "Talks",
+		"description": "We bring speakers throughout the year to keep with our mission of inspiring and educating the next generation of Columbia entrepreneurs. In the past we've had Jack Dorsey (Square and Twitter) and Peter Thiel (PayPal and Palantir) kick off our years' talks.",
 		"image": "static/img/initiatives/speaker-event.jpg",
 		"link": ""
 	},
@@ -53,28 +52,28 @@
 	{
 		"type": "Startup Social",
 		"label": "Startup Social",
-		"description": "Startup Socials are biweekly events that embody the entrepreneurial spirit of our community. We have current undergraduates, masters and MBA students, and leading startup founders and venture capitalists from the city together in conversation. It allows everyone to just hang out and get to know each other or share ideas.",
+		"description": "Startup Socials are biweekly events that embody the entrepreneurial spirit of our community. We have current undergraduates, masters and MBA students, and leading startup founders and venture capitalists from the city together in conversation. It allows everyone to hang out and get to know each other or share ideas.",
 		"image": "static/img/initiatives/startup-social.jpg",
 		"link": ""
 	},
 	{
 		"type": "Tech Treks",
 		"label": "Tech Treks",
-		"description": "For CORE's tech treks, students travel to a major tech hub around the world and explore that city’s tech scene by meeting with entrepreneurs and venture capitalists. We've visited Silicon Valley, London, and Paris. Companies we toured included VC firms like Accel Partners and Andreessen Horowitz, accelerators like NUMA, and tech powerhouses like Google, Facebook, and Palantir.",
+		"description": "For CORE's tech treks, students travel to a major tech hub around the world and explore that city’s tech scene by meeting with entrepreneurs and venture capitalists. We've visited Silicon Valley, London, Paris, and Berlin. Companies we toured included VC firms like Andreessen Horowitz and Sequoia Capital and tech powerhouses like Google, Facebook, and Palantir.",
 		"image": "static/img/initiatives/tech-trek.jpg",
 		"link": "http://techtreks.coreatcu.com/"
 	},
   	{
 		"type": "Winter Program",
 		"label": "Winter Program",
-		"description": "CORE & ADI's JADE winter program is an immersive week-long program in New York City! A small group of students will be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
+		"description": "CORE and ADI's JADE winter program is an immersive week-long program in New York City! A small group of students will be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
 		"image": "static/img/initiatives/wee.jpg",
 		"link": "jade"
 	},
 	{
 		"type": "Women@CORE",
 		"label": "Women@CORE",
-		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches highly motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We have also hosted panels in the past such as \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries.\"",
+		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches highly motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We've also hosted panels in the past like \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries.\"",
 		"image": "static/img/initiatives/womenatcore-logo.jpg",
 		"link": "womenatcore"
 	}
