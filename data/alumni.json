@@ -52,7 +52,7 @@
         {
           "name": "Mayank Mahajan",
           "pic": "static/img/people/mayank.jpg",
-          "byline": "SEAS '17, Computer Science and Entrepreneurship",
+          "byline": "SEAS '16, Computer Science and Entrepreneurship",
           "bio": "Hey! My name's Mayank - I'm a third year in SEAS. I've been a member of CORE for five semesters and an OP for two, and I'm currently involved with #StartupColumbia as well as volunteering in several of CORE's higher profile events. In addition to CORE, I dance for Columbia Raas and serve on the Engineering Student Council. Hit me up if you want to grab coffee!",
           "socialmedia": {
             "instagram": "www.instagram.com/mayanktho",
@@ -89,6 +89,11 @@
           "name": "Taylor Pedicone",
           "pic": "static/img/people/taylor-p.jpg",
           "byline": "BC '16, Psychology"
+        },
+        {
+          "name": "Tom Sherborne",
+          "pic": "static/img/people/tom.jpg",
+          "byline": "SEAS '17, Electrical Engineering"
         },
         {
           "name": "Zach Gleicher",

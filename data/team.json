@@ -128,11 +128,6 @@
           "socialmedia": {
             "twitter": "http://twitter.com/simonamschwartz"
           }
-        },
-        {
-          "name": "Tom Sherborne",
-          "pic": "static/img/people/tom.jpg",
-          "byline": "SEAS '17, Electrical Engineering"
         }
       ]
     },
@@ -169,12 +164,22 @@
       "type": "Operating Partners",
       "names": [
         {
+          "name": "Abhiroop Gangopadhyay",
+          "pic": "static/img/people/abhiroop.jpg",
+          "byline": "SEAS '18, Computer Science"
+        },
+        {
           "name": "Amal Abid",
           "pic": "static/img/people/amal.jpg",
           "byline": "CC '17, Computer Science",
           "socialmedia": {
             "twitter": "http://twitter.com/amalabid"
           }
+        },
+        {
+          "name": "Chris Beltrone",
+          "pic": "static/img/people/chris.jpg",
+          "byline": "CC '18, Economics"
         },
         {
           "name": "Christy Chung",
@@ -208,41 +213,6 @@
           }
         },
         {
-          "name": "Tony Li",
-          "pic": "static/img/people/tony.jpg",
-          "byline": "CC '18, Computer Science"
-        },
-        {
-          "name": "Victoria Lee",
-          "pic": "static/img/people/victoria.jpg",
-          "byline": "SEAS '17, Operations Research",
-          "bio": "I'm a CORE-fanatic and have been involved with the Women@CORE mentorship, Columbia's undergraduate venture competition, and CORE's first-ever food innovation event. I interned this past spring at a startup called Fundera. In my spare time, I can be found Yelping best places to eat in Manhattan."
-        }
-      ]
-    },
-    {
-      "type": "Operating Committee",
-      "names" : [
-        {
-          "name": "Abhiroop Gangopadhyay",
-          "pic": "static/img/people/abhiroop.jpg",
-          "byline": "SEAS '18, Computer Science"
-        },
-        {
-          "name": "Abigail Kim",
-          "pic": "static/img/people/abigail.jpg",
-          "byline": "BC '16, Art History",
-          "bio": "In fall 2014, I planned and moderated a panel on entrepreneurship in the fashion industry, featuring top-of-the-line fashion editors, bloggers, and designers. My focus in CORE has been on expanding our definition of entrepreneurship outside of tech to include innovators who push boundaries in creative fields. This year, I will be abroad, studying in Berlin, Germany.",
-          "socialmedia": {
-            "instagram": "https://instagram.com/abigailkim/"
-          }
-        },
-        {
-          "name": "Chris Beltrone",
-          "pic": "static/img/people/chris.jpg",
-          "byline": "CC '18, Economics"
-        },
-        {
           "name": "Tenzan Wong",
           "pic": "static/img/people/tenzan.jpg",
           "byline": "GS '18, Economics",
@@ -263,9 +233,34 @@
           }
         },
         {
+          "name": "Tony Li",
+          "pic": "static/img/people/tony.jpg",
+          "byline": "CC '18, Computer Science"
+        },
+        {
+          "name": "Victoria Lee",
+          "pic": "static/img/people/victoria.jpg",
+          "byline": "SEAS '17, Operations Research",
+          "bio": "I'm a CORE-fanatic and have been involved with the Women@CORE mentorship, Columbia's undergraduate venture competition, and CORE's first-ever food innovation event. I interned this past spring at a startup called Fundera. In my spare time, I can be found Yelping best places to eat in Manhattan."
+        },
+        {
           "name": "Wynnie Newton",
           "pic": "static/img/people/wynnie.jpg",
           "byline": "BC '19, Economics"
+        }
+      ]
+    },
+    {
+      "type": "Operating Committee",
+      "names" : [
+        {
+          "name": "Abigail Kim",
+          "pic": "static/img/people/abigail.jpg",
+          "byline": "BC '16, Art History",
+          "bio": "In fall 2014, I planned and moderated a panel on entrepreneurship in the fashion industry, featuring top-of-the-line fashion editors, bloggers, and designers. My focus in CORE has been on expanding our definition of entrepreneurship outside of tech to include innovators who push boundaries in creative fields. This year, I will be abroad, studying in Berlin, Germany.",
+          "socialmedia": {
+            "instagram": "https://instagram.com/abigailkim/"
+          }
         }
       ]
     }
