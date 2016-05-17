@@ -68,15 +68,6 @@
           }
         },
         {
-          "name": "Kimberly Hou",
-          "pic": "static/img/people/kimberly.jpg",
-          "byline": "CC '16, Neuroscience and Behavior",
-          "bio": "A pianist in the Columbia-Juilliard Exchange, I wanted to share one of my earliest passions by founding Columbia Pops, Columbia’s first pops orchestra. I'm majoring in neuroscience and hope to work in product management. As part of CORE, I've led the VC Analyst Internship Program, two bio-health panels, and marketing/logistics for bringing Peter Thiel to speak at Columbia.",
-          "socialmedia": {
-            "twitter": "http://twitter.com/kimberlyjhou"
-          }
-        },
-        {
           "name": "Maegan Wang",
           "pic": "static/img/people/maegan.jpg",
           "byline": "CC '18, Economics"
@@ -161,7 +152,7 @@
           "name": "Jackie Luo",
           "pic": "static/img/people/jackie.jpg",
           "byline": "CC '17, Computer Science and Philosophy",
-          "bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm interning at a startup called Nylas. I'll be heading to work on the applied machine learning team at Apple this upcoming summer!",
+          "bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm working at a startup called Nylas.",
           "socialmedia": {
             "link": "http://jackiehluo.github.io",
             "twitter": "http://twitter.com/jackiehluo"
@@ -171,14 +162,6 @@
           "name": "Max Rosenberg",
           "pic": "static/img/people/max.jpg",
           "byline": "CC '18, Economics"
-        },
-        {
-          "name": "Michelle Tan",
-          "pic": "static/img/people/michelle-t.jpg",
-          "byline": "CC '16, Economics and History",
-          "socialmedia": {
-            "twitter": "http://twitter.com/qiuyuntan"
-          }
         }
       ]
     },

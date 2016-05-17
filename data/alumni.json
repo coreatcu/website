@@ -32,6 +32,15 @@
           "byline": "CC '17, Economics-Political Science"
         },
         {
+          "name": "Kimberly Hou",
+          "pic": "static/img/people/kimberly.jpg",
+          "byline": "CC '16, Neuroscience and Behavior",
+          "bio": "A pianist in the Columbia-Juilliard Exchange, I wanted to share one of my earliest passions by founding Columbia Pops, Columbia’s first pops orchestra. I'm majoring in neuroscience and hope to work in product management. As part of CORE, I've led the VC Analyst Internship Program, two bio-health panels, and marketing/logistics for bringing Peter Thiel to speak at Columbia.",
+          "socialmedia": {
+            "twitter": "http://twitter.com/kimberlyjhou"
+          }
+        },
+        {
           "name": "Kristina Wald",
           "pic": "static/img/people/kristina.jpg",
           "byline": "CC '16, Economics and Psychology",
@@ -48,6 +57,14 @@
           "socialmedia": {
             "instagram": "www.instagram.com/mayanktho",
             "linkedin": "www.linkedin.com/in/mmahajan24"
+          }
+        },
+        {
+          "name": "Michelle Tan",
+          "pic": "static/img/people/michelle-t.jpg",
+          "byline": "CC '16, Economics and History",
+          "socialmedia": {
+            "twitter": "http://twitter.com/qiuyuntan"
           }
         },
         {
