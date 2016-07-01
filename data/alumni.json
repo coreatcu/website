@@ -1,7 +1,7 @@
 {
   "alumni": [
     {
-      "year": 2016,
+      "year": "2016",
       "names": [
         {
           "name": "Anshul Gupta",
@@ -79,7 +79,7 @@
           "socialmedia": {
             "twitter": "http://twitter.com/nayaronfire"
           }
-        }
+        },
         {
           "name": "Oriana Garty",
           "pic": "static/img/people/oriana.jpg",

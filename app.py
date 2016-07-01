@@ -57,6 +57,10 @@ def infographic_path(infographic_item):
 def team():
     return render_template('team.html', **data['team'])
 
+@app.route('/alumni')
+def alumni():
+    return render_template('alumni.html', **data['alumni'])
+
 @app.route('/contact', methods=['GET', 'POST'])
 def contact():
     form = ContactForm()
