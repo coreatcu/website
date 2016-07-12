@@ -3,6 +3,7 @@ DEBUG = True
 HOST = '0.0.0.0'
 DATA_FILENAMES = {
     'team': 'data/team.json',
+    'alumni': 'data/alumni.json',
     'initiatives': 'data/initiatives.json',
     'partners': 'data/partners.json'
 }

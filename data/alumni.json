@@ -1,7 +1,7 @@
 {
   "alumni": [
     {
-      "year": 2016,
+      "year": "2016",
       "names": [
         {
           "name": "Anshul Gupta",
@@ -29,7 +29,7 @@
         {
           "name": "Jiaying Lim",
           "pic": "static/img/people/jiaying.jpg",
-          "byline": "CC '17, Economics-Political Science"
+          "byline": "CC '16, Economics-Political Science"
         },
         {
           "name": "Kimberly Hou",
@@ -79,7 +79,7 @@
           "socialmedia": {
             "twitter": "http://twitter.com/nayaronfire"
           }
-        }
+        },
         {
           "name": "Oriana Garty",
           "pic": "static/img/people/oriana.jpg",
