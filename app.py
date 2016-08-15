@@ -3,11 +3,13 @@ from flask_mail import Mail
 from flask.ext.mail import Message
 import simplejson
 import os
+from flask_sslify import SSLify
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
 mail = Mail(app)
 data = {}
+sslify = SSLify(app)
 
 from config import SECRET_KEY
 from forms import ContactForm
