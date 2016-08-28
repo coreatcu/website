@@ -77,7 +77,7 @@ def contact():
     return render_template('contact.html', form=form)
 
 @app.route('/apply')
-def corecircles():
+def apply():
     return render_template('apply.html')
 
 @app.errorhandler(404)
