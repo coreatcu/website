@@ -3,11 +3,13 @@ from flask_mail import Mail
 from flask.ext.mail import Message
 import simplejson
 import os
+from flask_sslify import SSLify
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
 mail = Mail(app)
 data = {}
+sslify = SSLify(app)
 
 from config import SECRET_KEY
 from forms import ContactForm
@@ -73,6 +75,10 @@ def contact():
         mail.send(msg)
         return redirect(url_for('index'))
     return render_template('contact.html', form=form)
+
+@app.route('/apply')
+def apply():
+    return render_template('apply.html')
 
 @app.errorhandler(404)
 def page_not_found(e):
