@@ -41,6 +41,7 @@
 .section {
   padding-top: 84px;
   margin-top: -84px;
+  height: 500px;
 }
 
 .team-card-square.mdl-card {
@@ -150,6 +151,7 @@
   height: 500px;
   padding: 0px 20px 10px 20px;
   position: relative;
+  overflow: scroll; 
 }
 
 .initiatives-card.mdl-card > .mdl-card__title {
@@ -158,7 +160,7 @@
 }
 
 .initiative-links {
-  position: absolute;
+  position: relative; 
   left: 15px;
   bottom: 10px;
 }

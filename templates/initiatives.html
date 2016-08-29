@@ -4,7 +4,7 @@
   <div class="mdl-grid">
     <div class="mdl-cell mdl-cell--2-col">
       <div class="navigation-bar" id="initiatives-navigation">
-      {% for initiative in initiatives %}
+      {% for initiative in committees %}
             <div class="navigation-bar-item">
             <a href="{{'#' + initiative.type.replace(' ', '-').lower()}}">
               <div class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
@@ -17,7 +17,7 @@
     </div>
     <div class="mdl-cell mdl-cell--10-col">
       <div class="mdl-grid">
-      {% for initiative in initiatives %}
+      {% for initiative in committees %}
         <div class="mdl-cell mdl-card mdl-shadow--2dp initiatives-card">
           <div class="section" id="{{initiative.type.replace(' ', '-').lower()}}">
     	      <div class="mdl-card__title">
@@ -28,14 +28,39 @@
                 <img src={{initiative["image"]}} style="max-width: 95%;">
               </div>
             {% endif %}
-            <div class="mdl-card__supporting-text">
-               {{initiative.description}}
+            <div class="mdl-card__supporting-text"> 
+		 {{initiative.description}}
              </div>
              {% if initiative.link %}
              <div class="initiative-links">
-               <a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+		{% if initiative.label == "University Programs"%}
+			<a href={{initiative.link[0]}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                 #StartupColumbia
+               </a>
+               <a href={{initiative.link[1]}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                 Columbia Venture Competition
+               </a>
+		{% elif initiative.label == "Ventures" %}
+			<a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+		Almaworks
+		</a>
+		{% elif initiative.label == "Global Entrepreneurship" %}
+			<a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+		Tech Treks
+		</a>
+		{% elif initiative.label == "Intercollegiate Programs" %}
+			<a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+		Ignite@CU
+		</a>
+		{% elif initiative.label == "Internships & Mentorships" %}
+			<a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+		Startup Internship Program (SIP)
+		</a>
+		{% else %}
+		<a href={{initiative.link}} target="_blank" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                  Find out more
                </a>
+		{% endif %}
              </div>
              {% endif %}
           </div>
