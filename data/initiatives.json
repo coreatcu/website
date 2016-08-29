@@ -1,81 +1,52 @@
 {
-  "initiatives": [
+  "committees": [
 	 {
-		"type": "#StartupColumbia",
-		"label": "#StartupColumbia",
-		"description": "#StartupColumbia is an annual entrepreneurship festival held in the spring, coordinated by Columbia Entreprenership, CEO from the Columbia Business School, and CORE. The day-long event brings in speakers, alumni, and current students in a celebration of entrepreneurship. The festival also marks the conclusion of the Columbia Venture Competition, an annual $250,000 competition for Columbia students and young alums.",
-		"image": "static/img/initiatives/startup-columbia.jpg",
-		"link": "http://www.startupcolumbia.org"
+		"type": "University Programs",
+		"label": "University Programs",
+		"description": "The University Programs committee focuses on collaborative programs with Columbia Entrepreneurship and Columbia University's undergraduate schools. Our mission is to work with our major university partners to showcase the breadth of entrepreneurship at Columbia. In conjunction with Columbia Entrepreneurship, we coordinate the annual entrepreneurship festival #StartupColumbia. The day-long conference brings together exciting speakers, alumni, and current students for a celebration of entrepreneurship at Columbia. We also run part of the Columbia Venture Competition, an annual $250,000 business plan competition open to students and recent alumni.",
+		"image": "static/img/initiatives/programs.jpg",
+		"link": ["http://www.startupcolumbia.org", "https://www.coreatcu.com/cvc"]
 	},
 	{
-		"type": "Almaworks",
-		"label": "Almaworks",
-		"description": "Almaworks is our first student accelerator for entrepreneurs in New York City. We take no equity and aim to help early-stage startups run by student entrepreneurs achieve significant, sustainable growth.",
-		"image": "static/img/initiatives/almaworks.jpg",
+		"type": "Ventures",
+		"label": "Ventures",
+		"description": "The Ventures committee aims to support and accelerate startups built by students in the Columbia community. We provide resources that allow student entrepreneurs to take their ideas and launch successful products and companies. Our flagship initiative, Almaworks (LINK), is a student-run accelerator program hosted at the Columbia Design Studio that provides valuable mentors and resources to young Columbia startups. To date, we've supported over 18 Columbia startups that have won major pitch competitions, advanced to prestigious incubator programs, and raised over $4 million in seed funding. We want to help Columbia students launch successful companies by providing guidance and support throughout the startup process.",
+		"image": "static/img/initiatives/Ventures.jpg",
 		"link": "http://www.alma.works"
 	},
 	{
-		"type": "CORE Circles",
-		"label": "CORE Circles",
-		"description": "CORE Circles is a semester long program where tight-knit groups of students come together every week and learn about startups in a specific sector through events and company visits. It is a great way to learn more about the startup world while being part of a group of like-minded peers, all in a low stress environment! ",
-		"image": "static/img/initiatives/circles.jpg",
-		"link": "corecircles"
+		"type": "Global Entrepreneurship",
+		"label": "Global Entrepreneurship",
+		"description": "The Global Entrepreneurship committee's mission is to expand CORE's horizons beyond the United States. Whether we're organizing global tech treks or hosting foreign exchange students in NYC for some of our larger conferences, we focus on exploring what entrepreneurship means abroad. Through our annual Spring Break Tech Trek program, we've taken Columbia students to cities like Berlin, Paris and London for an immersive week of entrepreneurship and visits to some of the world's most exciting startups. We hope to expand our list of destinations and programs in the future to offer students more opportunities to explore entrepreneurship in different cultural and environmental contexts.",
+		"image": "static/img/initiatives/global.jpg",
+		"link": "http://techtreks.coreatcu.com/"
 	},
 	{
-		"type": "CORE Impulse",
-		"label": "Impulse",
-		"description": "CORE Impulse is CORE’s media outlet and voice of entrepreneurship on Columbia’s campus and throughout New York City, reaching an active audience of nearly 3,000 weekly visitors. We interview startups and entrepreneurs from around the world, craft beautiful designs as well as opinion pieces, and build tech products for the entrepreneurial student.",
-		"image": "static/img/initiatives/impulse-logo.jpg",
-		"link": "http://impulse.coreatcu.com/"
+		"type": "Technology",
+		"label": "Technology",
+		"description": "CORE's Technology team works to empower its members to learn about and build technologies and solutions that are both related and unrelated to CORE's mission. We value entrepreneurship as a way for our team to collaborate and build together. We are a platform for our members to pursue the projects they are most interested in, while teaching others along the way. We're currently working on projects ranging from data science to security and web applications.",
+		"image": "static/img/initiatives/Tech.jpg"
 	},
 	{
-		"type": "Ignite@CU",
-		"label": "Ignite@CU",
-		"description": "Ignite@CU is bringing the top collegiate entrepreneurs together for a weekend of learning and networking. We collaborate with groups at schools like Harvard, Yale, Penn, and more.",
-		"image": "static/img/initiatives/ignite-logo.png",
+		"type": "Intercollegiate Programs",
+		"label": "Intercollegiate Programs",
+		"description": "The Intercollegiate Programs committee aims to connect with organizations at other Universities that share common goals with CORE. We recognize the immense value of collaborating with students in these organizations and sharing our resources to benefit the entrepreneurship community. In the past, events like Ignite@CU and the Intercollegiate Pitch Off (IPO) have connected students from these different groups together and formed powerful and lasting relationships. Through these events, we've learned more about our partner entrepreneurships clubs, expanded our audience, and even beta-tested each other's products. We want to work with our peers to build large-scale programs and events that encourage cross-collaboration and teamwork.", 
+		"image": "static/img/initiatives/intercollegiate.jpg",
 		"link": "http://ignite.coreatcu.com"
 	},
 	{
-		"type": "Talks",
-		"label": "Talks",
-		"description": "We bring speakers throughout the year to keep with our mission of inspiring and educating the next generation of Columbia entrepreneurs. In the past we've had Jack Dorsey (Square and Twitter) and Peter Thiel (PayPal and Palantir) kick off our years' talks.",
-		"image": "static/img/initiatives/speaker-event.jpg",
-		"link": ""
-	},
-	{
-		"type": "Startup Internship Program",
-		"label": "SIP",
-		"description": "The Startup Internship Program (SIP) is an opportunity for students to get involved with startups in the spring semester. CORE partners with the CCE to bring students a great opportunity to get hands-on experience working at startups.",
-		"image": "static/img/initiatives/sip-logo.png",
+		"type": "Internships & Mentorships",
+		"label": "Internships & Mentorships",
+		"description": "The Internship & Mentorship committee is dedicated to providing the highest quality startup experiences for students at Columbia. We work closely with the most exciting startups in New York City to provide students with unparalleled access to early-stage companies through both internship and mentorship opportunities. Each year, we run the Startup Internship Program in conjunction with the Center for Career Education, where we directly place students in twelve-week internship programs during the spring semester. Through these programs, students learn first-hand what it's like to run a startup - often playing an important and impactful role through their projects - and can find mentors in startup leaders who help them grow as individuals and as entrepreneurs.",
+		"image": "static/img/initiatives/Internships.jpg",
 		"link": "https://www.careereducation.columbia.edu/findajob/cce-internship/sip"
 	},
 	{
-		"type": "Startup Social",
-		"label": "Startup Social",
-		"description": "Startup Socials are biweekly events that embody the entrepreneurial spirit of our community. We have current undergraduates, masters and MBA students, and leading startup founders and venture capitalists from the city together in conversation. It allows everyone to hang out and get to know each other or share ideas.",
-		"image": "static/img/initiatives/startup-social.jpg",
-		"link": ""
-	},
-	{
-		"type": "Tech Treks",
-		"label": "Tech Treks",
-		"description": "For CORE's tech treks, students travel to a major tech hub around the world and explore that city’s tech scene by meeting with entrepreneurs and venture capitalists. We've visited Silicon Valley, London, Paris, and Berlin. Companies we toured included VC firms like Andreessen Horowitz and Sequoia Capital and tech powerhouses like Google, Facebook, and Palantir.",
-		"image": "static/img/initiatives/tech-trek.jpg",
-		"link": "http://techtreks.coreatcu.com/"
-	},
-  	{
-		"type": "Winter Program",
-		"label": "Winter Program",
-		"description": "CORE and ADI's JADE winter program is an immersive week-long program in New York City! A small group of students will be immersed in the startup world of NYC and learn about entrepreneurship through visits with startups all shapes and sizes, talks with founders, and fun adventures throughout the city.",
-		"image": "static/img/initiatives/wee.jpg",
-		"link": "jade"
-	},
-	{
-		"type": "Women@CORE",
-		"label": "Women@CORE",
-		"description": "The only dedicated program for female entrepreneurs at Columbia University, Women@CORE matches highly motivated women who are passionate about entrepreneurship with successful female entrepreneurs in New York City. We've also hosted panels in the past like \"Women Leaders in Entrepreneurship\" and \"Women in Unconventional Industries.\"",
-		"image": "static/img/initiatives/womenatcore-logo.jpg",
-		"link": "womenatcore"
+		"type": "Communications & Marketing",
+		"label": "Communications & Marketing",
+		"description": "Members of the Communications & Marketing committee are the stewards of the CORE brand. We're the hub for developing and deploying CORE members's design and content skills. As the creativeface of CORE, Communications & Marketing looks after the consistency and advancement of CORE's public brand and message through thoughtful design, marketing, and multimedia operations. We carry out our mission via CORE'snewsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance and raise awareness of CORE's mission and initiatives.", 
+		"image": "static/img/initiatives/marketing.jpg"
 	}
   ]
 }
+
