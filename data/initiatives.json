@@ -10,7 +10,7 @@
 	{
 		"type": "Ventures",
 		"label": "Ventures",
-		"description": "The Ventures committee aims to support and accelerate startups built by students in the Columbia community. We provide resources that allow student entrepreneurs to take their ideas and launch successful products and companies. Our flagship initiative, Almaworks, is a student-run accelerator program hosted at the Columbia Design Studio that provides valuable mentors and resources to young Columbia startups. To date, we've supported over 18 Columbia startups that have won major pitch competitions, advanced to prestigious incubator programs, and raised over $4 million in seed funding. We want to help Columbia students launch successful companies by providing guidance and support throughout the startup process.",
+		"description": "The Ventures committee aims to support and accelerate startups built by studentsin the Columbia community. We provide resources that allow student entrepreneurs to take their ideas and launchsuccessful products and companies. Our flagship initiative, Almaworks, is a student-run accelerator program hosted at the Columbia Design Studio that provides valuable mentors and resources to young Columbia startups. To date, we've supported over 18 Columbia startups that have won major pitch competitions, advanced to prestigious incubator programs, and raised over $4 million in seed funding. We want to help Columbia students launch successful companies by providing guidance and support throughout the startup process.",
 		"image": "static/img/initiatives/Ventures.jpg",
 		"link": "http://www.alma.works"
 	},
@@ -30,7 +30,7 @@
 	{
 		"type": "Intercollegiate Programs",
 		"label": "Intercollegiate Programs",
-		"description": "The Intercollegiate Programs committee aims to connect with organizations at other Universities that share common goals with CORE. We recognize the immense value of collaborating with students in these organizations and sharing our resources to benefit the entrepreneurship community. In the past, events like Ignite@CU and the Intercollegiate Pitch Off (IPO) have connected students from these different groups together and formed powerful and lasting relationships. Through these events, we've learned more about our partner entrepreneurships clubs, expanded our audience, and even beta-tested each other's products. We want to work with our peers to build large-scale programs and events that encourage cross-collaboration and teamwork.", 
+		"description": "The Intercollegiate Programs committee aims to connect with organizations at other Universities that share common goals with CORE. We recognize the immense value of collaborating with student in these organizations and sharing our resources to benefit the entrepreneurship community. In the past, event like Ignite@CU and the Intercollegiate Pitch Off (IPO) have connected students from these different groups together and formed powerful and lasting relationships. Through these events, we've learned more about our partner entrepreneurships clubs, expanded our audience, and even beta-tested each other's products. We want to work with our peers to build large-scale programs and events that encourage cross-collaboration and teamwork.", 
 		"image": "static/img/initiatives/intercollegiate.jpg",
 		"link": "http://ignite.coreatcu.com"
 	},
@@ -44,13 +44,13 @@
 	{
 		"type": "Communications & Marketing",
 		"label": "Communications & Marketing",
-		"description": "Members of the Communications & Marketing committee are the stewards of the CORE brand. We're the hub for developing and deploying CORE members's design and content skills. As the creativeface of CORE, Communications & Marketing looks after the consistency and advancement of CORE's public brand and message through thoughtful design, marketing, and multimedia operations. We carry out our mission via CORE'snewsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance and raise awareness of CORE's mission and initiatives.", 
+		"description": "Members of the Communications & Marketing committee are the stewards of the CORE brand. We're the hub for developing and deploying CORE members's design and content skills. As the creative face of CORE, Communications & Marketing looks after the consistency and advancement of CORE's public brand and message through thoughtful design, marketing, and multimedia operations. We carry out our mission via CORE's newsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance and raise awareness of CORE's mission and initiatives.", 
 		"image": "static/img/initiatives/marketing.jpg"
 	},
 	{
 		"type": "coreX",
 		"label": "coreX",
-		"description": "The coreX committee aims to support underrepresented founders & entrepreneurs, and to encourage unconventional entrepreneurship in a variety of forms at Columbia. We organize discussions, movie screenings, and speaker series, and often partner with other CORE committees on larger conferences & events. Each fall, our Women@CORE mentorship program connects a selective group of Columbia students with female founders and startup executives to create an intensive mentorship program and bring female leaders to campus. We want to eliminate the stereotype that someone has to look or act a certain way to be an entrepreneur, and overall we're determined to support the entrepreneurs of the future at Columbia.", 
+		"description": "The coreX committee aims to support underrepresented founders & entrepreneurs, and to encourage unconventional entrepreneurship in a variety of forms at Columbia. We organize discussions, movie screenings, and speaker series, and often partner with other CORE committees on larger conferences & events. Each fall, our Women@CORE mentorship program connects a selective group of Columbia students with female founder and startup executives to create an intensive mentorship program and bring female leaders to campus. We want to eliminate the stereotype that someone has to look or act a certain way to be an entrepreneur, and overall we're determined to support the entrepreneurs of the future at Columbia.", 
 		"image": "static/img/initiatives/coreX.jpg",
 		"link": "https://www.coreatcu.com/womenatcore"	
 	}
