@@ -148,10 +148,9 @@
 
 .initiatives-card.mdl-card {
   width: 45%;
-  height: 500px;
+  height: 615px;
   padding: 0px 20px 10px 20px;
   position: relative;
-  overflow: scroll; 
 }
 
 .initiatives-card.mdl-card > .mdl-card__title {
