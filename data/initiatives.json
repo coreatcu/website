@@ -46,6 +46,13 @@
 		"label": "Communications & Marketing",
 		"description": "Members of the Communications & Marketing committee are the stewards of the CORE brand. We're the hub for developing and deploying CORE members's design and content skills. As the creativeface of CORE, Communications & Marketing looks after the consistency and advancement of CORE's public brand and message through thoughtful design, marketing, and multimedia operations. We carry out our mission via CORE'snewsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance and raise awareness of CORE's mission and initiatives.", 
 		"image": "static/img/initiatives/marketing.jpg"
+	},
+	{
+		"type": "coreX",
+		"label": "coreX",
+		"description": "The coreX committee aims to support underrepresented founders & entrepreneurs, and to encourage unconventional entrepreneurship in a variety of forms at Columbia. We organize discussions, movie screenings, and speaker series, and often partner with other CORE committees on larger conferences & events. Each fall, our Women@CORE mentorship program connects a selective group of Columbia students with female founders and startup executives to create an intensive mentorship program and bring female leaders to campus. We want to eliminate the stereotype that someone has to look or act a certain way to be an entrepreneur, and overall we're determined to support the entrepreneurs of the future at Columbia.", 
+		"image": "static/img/initiatives/coreX.jpg",
+		"link": "https://www.coreatcu.com/womenatcore"	
 	}
   ]
 }
