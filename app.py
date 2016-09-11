@@ -80,6 +80,10 @@ def contact():
 def apply():
     return render_template('apply.html')
 
+@app.route('/townhall')
+def townhall():
+	return redirect("https://www.facebook.com/events/246801099054529/")
+
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('404.html'), 404
