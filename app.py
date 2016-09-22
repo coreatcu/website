@@ -76,9 +76,9 @@ def contact():
         return redirect(url_for('index'))
     return render_template('contact.html', form=form)
 
-@app.route('/apply')
-def apply():
-    return render_template('apply.html')
+#@app.route('/apply')
+#def apply():
+#    return render_template('apply.html')
 
 @app.errorhandler(404)
 def page_not_found(e):
