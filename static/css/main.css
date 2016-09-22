@@ -41,7 +41,6 @@
 .section {
   padding-top: 84px;
   margin-top: -84px;
-  height: 500px;
 }
 
 .team-card-square.mdl-card {
@@ -159,7 +158,7 @@
 }
 
 .initiative-links {
-  position: relative; 
+  position: relative;
   left: 15px;
   bottom: 10px;
 }
