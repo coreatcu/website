@@ -12,7 +12,10 @@
   margin-top: 64px;
 }
 
-.home-wrapper img {
+.home-wrapper {
+  background: url('../img/team.jpg');
+  background-position: center;
+  background-size: cover;
   max-width: 100%;
   bottom: 0;
   left: 0;
@@ -36,7 +39,8 @@
 }
 
 .home-second-button {
-  padding-left: 10px;
+  padding-top: 20px;
+  /*padding-left: 10px;*/
 }
 .section {
   padding-top: 84px;
@@ -147,9 +151,10 @@
 
 .initiatives-card.mdl-card {
   width: 45%;
-  height: 615px;
+  height: 650px;
   padding: 0px 20px 10px 20px;
   position: relative;
+  overflow: auto;
 }
 
 .initiatives-card.mdl-card > .mdl-card__title {

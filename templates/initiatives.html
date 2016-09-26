@@ -2,7 +2,7 @@
 {% block content %}
 
   <div class="mdl-grid">
-    <div class="mdl-cell mdl-cell--2-col">
+    <div class="mdl-cell mdl-cell--3-col">
       <div class="navigation-bar" id="initiatives-navigation">
       {% for initiative in committees %}
             <div class="navigation-bar-item">
@@ -15,7 +15,7 @@
       {% endfor %}
       </div>
     </div>
-    <div class="mdl-cell mdl-cell--10-col">
+    <div class="mdl-cell mdl-cell--9-col">
       <div class="mdl-grid">
       {% for initiative in committees %}
         <div class="mdl-cell mdl-card mdl-shadow--2dp initiatives-card">
@@ -28,7 +28,7 @@
                 <img src={{initiative["image"]}} style="max-width: 95%;">
               </div>
             {% endif %}
-            <div class="mdl-card__supporting-text"> 
+            <div class="mdl-card__supporting-text">
 		 {{initiative.description}}
              </div>
              {% if initiative.link %}
