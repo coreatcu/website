@@ -43,6 +43,10 @@ def cvc():
 def womenatcore():
     return render_template('womenatcore.html')
 
+@app.route('/sip')
+def sip():
+    return render_template('sip.html')
+
 @app.route('/corecircles')
 def corecircles():
     return render_template('corecircles.html')
