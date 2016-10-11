@@ -8,7 +8,7 @@ DATA_FILENAMES = {
     'partners': 'data/partners.json'
 }
 
-SECRET_KEY = 'passwordgoeshere'
+SECRET_KEY = 'secret key goes here'
 WTF_CSRF_ENABLED = True
 MAIL_SERVER = 'smtp.gmail.com'
 MAIL_PORT = 465
@@ -17,5 +17,5 @@ MAIL_USE_SSL = True
 MAIL_USERNAME = 'coreatcu@gmail.com'
 MAIL_PASSWORD = 'passwordgoeshere'
 MAIL_DEFAULT_SENDER = 'coreboard@columbia.edu'
-RECAPTCHA_PUBLIC_KEY = 'public_key'
-RECAPTCHA_PRIVATE_KEY = 'private_key'
+RECAPTCHA_PUBLIC_KEY = '6Lf65CYTAAAAAOfIyFm4K07j_ugoP_iMPNGD-tIl'
+RECAPTCHA_PRIVATE_KEY = '6Lf65CYTAAAAAMN4BaWRqaECoQEKtA6v3ZylcVpm'
