@@ -81,7 +81,8 @@
           "title": "President",
           "pic": "static/img/people/SaraSakowitz.jpg",
           "byline": "CC '18, Psychology and German Literature", 
-          "bio": "I joined CORE in the fall of my freshman year and immediately fell in love with Columbia's amazing entrepreneurship community. As President, I'm currently directing University Programs, where I lead #StartupColumbia and the Columbia Venture Competition, and CoreX, where I'm building programming to support underrepresented founders on campus. I'm also leading our 2017 Tech Trek to Berlin! In my spare time, I work in a psych lab on campus and run my own science education company, Blue Moon Box. "          "socialmedia": {
+          "bio": "I joined CORE in the fall of my freshman year and immediately fell in love with Columbia's amazing entrepreneurship community. As President, I'm currently directing University Programs, where I lead #StartupColumbia and the Columbia Venture Competition, and CoreX, where I'm building programming to support underrepresented founders on campus. I'm also leading our 2017 Tech Trek to Berlin! In my spare time, I work in a psych lab on campus and run my own science education company, Blue Moon Box. ",
+          "socialmedia": {
             "link": "http://www.sarasakowitz.com",
             "twitter": "http://twitter.com/sarasakowitz",
             "linkedin": "https://www.linkedin.com/in/sara-sakowitz-72216496"
@@ -120,7 +121,7 @@
             "linkedin": "https://www.linkedin.com/in/katherinemoon",
             "twitter": "https://twitter.com/katxmoon"
           }
-        }
+        },
         {
           "name": "Max Rosenberg",
           "pic": "static/img/people/max.jpg",
@@ -188,7 +189,7 @@
         },
         {
           "name": "Gary Lin",
-          "pic": "static/img/people/garylin",
+          "pic": "static/img/people/garylin.jpg",
           "byline": "SEAS '17, Computer Science", 
           "bio": "I love meeting new people. Let's grab lunch?",
           "socialmedia": {
@@ -221,7 +222,7 @@
           "pic": "static/img/people/DSC_1057.jpg",
           "byline": "SEAS '18, Computer Science",
           "bio": "Since joining CORE in the fall of 2015, I've helped work on initiatives including the JADE winter program. I'm interested in the intersection between art and technology and in the past have interned for Broadcom and Microsoft. In my spare time, I like to watch spoken word poetry.",          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/tessahurr",
+            "linkedin": "https://www.linkedin.com/in/tessahurr"
           }
         },
         {
@@ -250,7 +251,7 @@
       "names" : [
         {
           "name": "Abhinav Kurada",
-          "pic": "static/img/people/the_name_of_the_file_you_put_in_the_gdrive_folder_with_extension",
+          "pic": "static/img/people/AbhinavKurada.jpg",
           "byline": "SEAS '20, Biomedical Engineering", 
           "bio": "@CORE I am mainly working on the Almaworks team and Ignite 2017. Moving forward, I hope to use the skills I have acquired in CORE and other clubs towards entrepreneurial endeavors in the medical field. Outside of CORE and Columbia I enjoy listening to rap music, attending hackathons, and supporting the New York Knicks.",
           "socialmedia": {
@@ -312,7 +313,7 @@
         },
         {
           "name": "Ian Huan ", 
-          "pic": "static/img/people/Ian Huang.jpg", 
+          "pic": "static/img/people/IanHuang.jpg", 
           "byline": "CC '2020, Computer Science and Financial Economics", 
           "bio": "I joined CORE as a freshman and I’m currently working on both the tech committee and the intercollegiate committee. I am also starting a student enterprise hoping to bring a more immersive visiting experience to prospective students touring Columbia. Through my past research projects dealing with AI and how it has the potential to solve so many problems, I’ve realized that I’m really passionate about the application of AI in both finance and medicine. When I’m not involved in CORE, I’m either trying to learn random stuff on the internet, playing violin or watching Narcos.", 
           "socialmedia": { 
@@ -332,7 +333,7 @@
           "name": "Marie Sgouros",
           "pic": "static/img/people/MarieSgouros.jpg",
           "byline": "BC '19, Economics major and Mathematical Sciences minor" , 
-          "bio": "In CORE, I'm a member of the coreX committee, finance committee, and university programs committee. I'm super interested in VC funding and making sure entrepreneurial spaces promote diversity and inclusivity. I'm currently working at a startup that wants to make VC more accessible to female entrepreneurs. In the past, I've been involved in Girl Scouts and the International Rescue Committee by co-founding a Girl Scout summer program that teaches Burmese refugee children English and American Culture in Maryland. I play music as a college radio DJ on my show: Bisexual Underground. I like to cook, my number one go-to belt-out song is Don't Stop Believing, and I'm considered an ENTJ. Feel free to grab coffee/tea with me if you want to chat.": ,
+          "bio": "In CORE, I'm a member of the coreX committee, finance committee, and university programs committee. I'm super interested in VC funding and making sure entrepreneurial spaces promote diversity and inclusivity. I'm currently working at a startup that wants to make VC more accessible to female entrepreneurs. In the past, I've been involved in Girl Scouts and the International Rescue Committee by co-founding a Girl Scout summer program that teaches Burmese refugee children English and American Culture in Maryland. I play music as a college radio DJ on my show: Bisexual Underground. I like to cook, my number one go-to belt-out song is Don't Stop Believing, and I'm considered an ENTJ. Feel free to grab coffee/tea with me if you want to chat.",
           "socialmedia": {
             "twitter": "https://twitter.com/marie_sgouros",
             "facebook": "https://www.facebook.com/marie.sgouros",
@@ -347,7 +348,7 @@
           "socialmedia": {
             "linkedin": "https://www.linkedin.com/in/retchin"
           }
-        }
+        },
         {
           "name": "Millen Anand",
           "pic": "static/img/people/MillenAnand.jpg",
@@ -385,7 +386,7 @@
             "personal website": "samlouiscohen.com",
             "linkedin": "https://www.linkedin.com/in/samlouiscohen"
           }
-        }
+        },
         {
           "name": "Saraya Hamidi",
           "pic": "static/img/people/SarayaHamidi.jpg",
@@ -394,7 +395,7 @@
         },
         {
           "name": "Sherin Shibu",
-          "pic": "static/img/people/SherinShibu",
+          "pic": "static/img/people/SherinShibu.jpg",
           "byline": "CC '20, Undecided", 
           "bio": "I'm a part of building student enterprises, launching new programs on a university-wide level, and organizing global tech treks. My passions include reading as much as possible, thinking of new ways to enrich the world around me, and implementing the ideas I come up with."
         },
