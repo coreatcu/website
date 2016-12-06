@@ -330,6 +330,15 @@
           }
         },
         {
+          "name": "Heejin (Irene) Koo",
+          "pic": "static/img/people/IreneKoo.jpg",
+          "byline": "SEAS '20, Operations Research", 
+          "bio": "As a freshman in SEAS, I am currently working on IGNITE@CU, Startup Columbia, Global Tech Treks, and student enterprises. I was first introduced to entrepreneurship in junior year of my high school, and I am fascinated by how entrepreneurship ties in seemingly irrelevant fields and disciplines to pose multi-faceted solutions. When I am not procrastinating, I walk around campus and sleep.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/hee-jin-irene-koo-149833128"
+          }
+        },
+        {
           "name": "Justice Betty",
           "pic": "static/img/people/JusticeBetty.jpg",
           "byline": "GS' 18 Dual BA with Sciences Po-Paris, Political Science", 
