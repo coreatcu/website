@@ -18,7 +18,7 @@
     <div class="mdl-cell mdl-cell--10-col">
       <div class="mdl-grid">
       {% for initiative in committees %}
-        <div class="mdl-cell mdl-card mdl-shadow--2dp initiatives-card">
+        <div class="mdl-cell initiatives-card mdl-card mdl-shadow--2dp" style="height: 530px">
           <div class="section" id="{{initiative.type.replace(' ', '-').lower()}}">
     	      <div class="mdl-card__title">
               <h2 class="mdl-card__title-text">{{initiative.type}}</h2>
