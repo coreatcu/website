@@ -67,6 +67,10 @@ def team():
 def alumni():
     return render_template('alumni.html', **data['alumni'])
 
+@app.route('/apply')
+def apply():
+    return render_template('apply.html')
+
 @app.route('/contact', methods=['GET', 'POST'])
 def contact():
     form = ContactForm()
