@@ -37,7 +37,7 @@ def jade():
 
 @app.route('/cvc')
 def cvc():
-    return render_template('cvc.html')
+    return redirect("http://startupcolumbia.org/competition.html", code=302)
 
 @app.route('/womenatcore')
 def womenatcore():
