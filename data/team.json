@@ -4,6 +4,11 @@
       "type": "Executive Board",
       "names": [
         {
+          "name": "Alan Yao",
+          "pic": "static/img/people/alan.jpg",
+          "byline": "CC '20"
+        }, 
+        {
           "name": "Amulya Kandikonda",
           "pic": "static/img/people/amulya.jpg",
           "byline": "BC '19, Computer Science and Economics",
@@ -11,6 +16,12 @@
           "socialmedia": {
             "linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
           }
+        },
+        {
+          "name":"Charlotte Livingston" ,
+          "pic":"static/img/people/charlotte.jpg" ,
+          "byline":"BC '19," , 
+          "bio": "I am driven by the multifaceted world of entrepreneurship that is united under a commitment to create and build. CORE provides me with connections that both broaden my perspective and challenge me to improve myself. Currently, I am in the Communications & Marketing and University Programs committees. I am involved in organizing a CORE outreach program, the Columbia Venture Competition, Ignite2017, and several speaking panels. Outside of CORE, some of my interests include hiking, Simon and Garfunkel, yoga, Alexander McQueen, NPR, Mark Rothko, and lateral thinking puzzles."
         },
         {
           "name": "Dennis Wei",
@@ -23,13 +34,26 @@
           }
         },
         {
-          "name": "James Xue",
-          "pic": "static/img/people/james.jpg",
-          "title": "Senior Advisor to Impulse",
-          "byline": "SEAS '17, Computer Science",
-          "bio": "I've been with CORE Impulse since it was just \"the blog\" back in 2013, and I'm currently the editor-in-chief. We've grown a talented team, a large audience, and a site with some awesome content! I've worked at a tech startup in Hong Kong, a research lab in Tokyo, startups in NYC, and an IT consultancy in London. I also like Game of Thrones!",
+          "name": "Helen Lu",
+          "pic": "static/img/people/helen.jpg",
+          "byline": "CC '19"
+        }, 
+        {
+          "name": "Ian Huang", 
+          "pic": "static/img/people/ian.jpg", 
+          "byline": "CC '2020, Computer Science and Financial Economics", 
+          "bio": "I joined CORE as a freshman and I’m currently working on both the tech committee and the intercollegiate committee. I am also starting a student enterprise hoping to bring a more immersive visiting experience to prospective students touring Columbia. Through my past research projects dealing with AI and how it has the potential to solve so many problems, I’ve realized that I’m really passionate about the application of AI in both finance and medicine. When I’m not involved in CORE, I’m either trying to learn random stuff on the internet, playing violin or watching Narcos.", 
+          "socialmedia": { 
+            "linkedin": "https://www.linkedin.com/in/ian-huang-171b88127"
+          }
+        },
+        {
+          "name": "Irene Koo",
+          "pic": "static/img/people/irene.jpg",
+          "byline": "SEAS '20, Operations Research", 
+          "bio": "As a freshman in SEAS, I am currently working on IGNITE@CU, Startup Columbia, Global Tech Treks, and student enterprises. I was first introduced to entrepreneurship in junior year of my high school, and I am fascinated by how entrepreneurship ties in seemingly irrelevant fields and disciplines to pose multi-faceted solutions. When I am not procrastinating, I walk around campus and sleep.",
           "socialmedia": {
-            "twitter": "http://twitter.com/therealjamesxue"
+            "linkedin": "https://www.linkedin.com/in/hee-jin-irene-koo-149833128"
           }
         },
         {
@@ -42,8 +66,36 @@
           }
         },
         {
+          "name": "Justice Betty",
+          "pic": "static/img/people/justice.jpg",
+          "byline": "GS' 18 Dual BA with Sciences Po-Paris, Political Science", 
+          "bio": "Joined CORE as a junior after spending 2 years studying in France. I am passionate about using entrepreneurship to change the world and excited about CORE's continuously growing impact on Campus. Traveling and dancing with zero sense of rhythm are some of my favourite past times.", 
+          "socialmedia": {
+              "linkedin": "https://www.linkedin.com/in/justicebetty" 
+          }
+        },
+        {
+          "name": "Marie Sgouros",
+          "pic": "static/img/people/marie.jpg",
+          "byline": "BC '19, Economics major and Mathematical Sciences minor" , 
+          "bio": "In CORE, I'm involved with coreX, finance, and university programs. I'm super interested in VC funding and making sure entrepreneurial spaces promote diversity and inclusivity. I'm currently working at a startup that wants to make VC more accessible to female entrepreneurs. In the past, I've been involved in Girl Scouts and the International Rescue Committee. I'm a college radio DJ on my show: Bisexual Underground. I like to cook. ENTJ.",
+          "socialmedia": {
+            "twitter": "https://twitter.com/marie_sgouros",
+            "facebook": "https://www.facebook.com/marie.sgouros",
+            "instagram": "https://www.instagram.com/marie.sgouros/"
+          }
+        },
+        {
+          "name": "Michael Retchin",
+          "pic": "static/img/people/michael.jpg",
+          "byline": "CC '20, Computer Science and Economics", 
+          "bio": "I've always loved solving problems, and entrepreneurship is the most exciting way to do that. I feel very lucky to have worked with such talented people on the first Ignite startup hackathon and career fair, the Almaworks accelerator, the Disrupting Finance and Marketing panel series, the Berlin Tech Trek, and the Startup Columbia festival. I enjoy house music, House of Cards, and the lopsided, losing games of tennis I play with my friends.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/retchin"
+          }
+        },
+        {
           "name": "Kevin Chu",
-          "title": "Secretary",
           "pic": "static/img/people/kevin.jpg",
           "byline": "CC '19, Computer Science-Mathematics",
           "bio": "Joining CORE made me reevaluate my priorities and reaffirmed my commitment to building things that matter. I'm a creative, and I've always believed in the power of words and design to make things happen. When not building the global tech treks and the Startup Internship Program with CORE, I can be found expanding my videography portfolio or exploring Asian American and LGBTQ activism.",
@@ -68,18 +120,8 @@
           }
         },
         {
-          "name": "Sahir Jaggi",
-          "pic": "static/img/people/sahir.jpg",
-          "byline": "SEAS '17, Biomedical Engineering",
-          "bio": "I'm a founding member of the Columbia Makerspace and currently working on CORE's entrepreneurship orientation program, which introduces first-year students to the startup world.",
-          "socialmedia": {
-            "twitter": "http://twitter.com/sahirjaggi"
-          }
-        },
-        {
           "name": "Sara Sakowitz",
-          "title": "President",
-          "pic": "static/img/people/SaraSakowitz.jpg",
+          "pic": "static/img/people/sara.jpg",
           "byline": "CC '18, Psychology and German Literature", 
           "bio": "I joined CORE in the fall of my freshman year and immediately fell in love with Columbia's amazing entrepreneurship community. As President, I'm currently directing University Programs, where I lead #StartupColumbia, and CoreX, where I'm building programming to support underrepresented founders on campus. In my spare time, I work in a psych lab on campus and run my own science education company, Blue Moon Box.",
           "socialmedia": {
@@ -87,92 +129,72 @@
             "twitter": "http://twitter.com/sarasakowitz",
             "linkedin": "https://www.linkedin.com/in/sara-sakowitz-72216496"
           }
-        }
+        },
+        {
+          "name": "Tony Zheng",
+          "pic": "static/img/people/tony.jpg",
+          "byline": "CC '19"
+        } 
       ]
     },
     {
       "type": "Senior Advisors",
       "names": [
         {
-          "name": "George Liu",
-          "pic": "static/img/people/george.jpg",
-          "byline": "CC '17, Economics",
-          "bio": "My past initiatives include serving as CORE's treasurer, leading the How to Start a Startup discussion seminars, co-organizing the CORE Product Challenge, and running CORE 3D printing initiatives. I'm currently the executive director of Almaworks, Columbia University's fall startup accelerator for New York college entrepreneurs.",
-          "socialmedia": {
-            "twitter": "http://twitter.com/gxzliu"
-          }
-        },
-        {
-          "name": "Jackie Luo",
-          "pic": "static/img/people/jackie.jpg",
-          "byline": "CC '17, Computer Science and Philosophy",
-          "bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm working at a startup called Nylas.",
-          "socialmedia": {
-            "link": "http://jackiehluo.github.io",
-            "twitter": "http://twitter.com/jackiehluo"
-          }
-        },
-        {
-          "name": "Kat Moon",
-          "pic": "static/img/people/KatMoon.jpg",
-          "byline": "CC '17, English and Psychology", 
-          "bio": "During my time in CORE, I've launched the Spring Break Global Tech Treks Program, hosted Arianna Huffington on campus, and introduced students to international founders in NYC. When I'm not serving in InterVarsity Christian Fellowship, I'm either watching NBA games (go Timberwolves!) or searching for the best Taiwanese beef noodles in the city.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/katherinemoon",
-            "twitter": "https://twitter.com/katxmoon"
-          }
+          "name": "Angel Maredia",
+          "pic": "static/img/people/angel.jpg",
+          "byline": "SEAS '18, Computer Science"
         },
         {
           "name": "Max Rosenberg",
           "pic": "static/img/people/max.jpg",
           "byline": "CC '18, Economics"
-        },
-        {
-          "name": "Miranda Li",
-          "pic": "static/img/people/mirandali.jpg",
-          "byline": "CC '17, Computer Science and Economics-Philosophy", 
-          "bio": "I'm a senior who has been in CORE (almost) as long as I've been at Columbia! I've loved helping the organization develop and grow in the past 4 years. I founded the Startup Internship Program and try to provide a helping hand to whoever needs it. Other things I love to do are listen to audiobooks, play squash, play board games, do economics research, find new restaurants and coffee shops in New York, and tweet.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/mirandali",
-            "twitter": "https://twitter.com/mirandajli"
-          }
-        },
-        {   
-           "name": "Simon Schwartz",   
-           "pic": "static/img/people/simon.jpg",   
-           "byline": "CC '17, Philosophy and Statistics",    
-           "bio": "I grew up on a farm in Virginia, which, as I tell anyone who listens, has prepared me uniquely for life as an entrepreneur. I joined CORE as a freshman and knew instantly that it was the most useful thing I'd do at CU. I've spent time in VC, as well as hardware and finance startups, and spend my free time thinking how entrepreneurship can help rural communities.",    
-           "socialmedia": {    
-             "twitter": "http://twitter.com/simonamschwartz"   
-            }             
-        },
-        {
-          "name":"Tom Sherborne",
-          "pic":"static/img/people/tom.jpg",
-          "byline":"UCL '17 MEng Electronic Engineering",
-          "bio":"I spent my junior year studying abroad at Columbia. I was part of the original team for both Almaworks and IPO, and I also helped make Ignite@CU and #StartupColumbia happen. I'm interested the interaction of machine learning and data bias, and how probabilistic mechanisms can be used to understand the influence of news data in society.",
-          "socialmedia":{
-            "linkedin":"https://www.linkedin.com/in/tomsh",
-            "twitter":"https://twitter.com/TSherborne",
-            "website":"https://github.com/trsherborne"
-          }
         }
       ]
     },
     {
-      "type": "Operating Partners",
-      "names": [
+      "type": "Operating Committee",
+      "names" : [
+        {
+          "name": "Abhinav Kurada",
+          "pic": "static/img/people/abhinav.jpg",
+          "byline": "SEAS '20, Biomedical Engineering", 
+          "bio": "@CORE I am mainly working on the Almaworks team and Ignite 2017. Moving forward, I hope to use the skills I have acquired in CORE and other clubs towards entrepreneurial endeavors in the medical field. Outside of CORE and Columbia I enjoy listening to rap music, attending hackathons, and supporting the New York Knicks.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/abhinavkurada",
+            "website": "http://www.akurada.tech"
+          }
+        },
         {
           "name": "Abhiroop Gangopadhyay",
           "pic": "static/img/people/abhiroop.jpg",
           "byline": "SEAS '18, Computer Science"
         },
         {
-          "name": "Amal Abid",
-          "pic": "static/img/people/amal.jpg",
-          "byline": "CC '17, Computer Science",
+          "name": "Aku Acquaye",
+          "pic": "static/img/people/aku.jpg",
+          "byline": "BC '18, Political Economy", 
+          "bio": "Currently serving as an Operating Committee Leader in COREx and Global Entrepreneurship. I'm excited to challenge the idea of the typical entrepreneur by showcasing the talents of women and people of color in the events I put on on campus. In my spare time, I live for How to Get Away with Murder.",
           "socialmedia": {
-            "twitter": "http://twitter.com/amalabid"
+            "linkedin": "https://www.linkedin.com/in/akuacquaye18"
+          }
+        },
+        {
+          "name": "Alex Nicita",
+          "pic": "static/img/people/alex.jpg",
+          "byline": "CC '20, Applied Mathematics and English", 
+          "bio": "As a first-year in the Fall of 2016, I worked with the Almaworks accelerator and CORE's Tech Team. As a young entrepreneur, I love looking at old problems through new lenses. When I'm not getting lost in Manhattan, you can find me playing some wiffleball or reading some Kerouac.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/alexander-nicita-17bl"
+          }
+        },
+        {
+          "name": "Austin Wang",
+          "pic": "static/img/people/austin.jpg",
+          "byline": "CC '19, Economics and Sociology", 
+          "bio": "In my freshman year, I worked on a startup in the Almaworks accelerator, and became enamored with the world of entrepreneurship. I love all the amazing ideas in the startup world and currently work on the Finance and Internships teams. I love eating, listening to music and finding ways to not do work.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/austin-wang-849ab5111"
           }
         },
         {
@@ -187,34 +209,119 @@
           "bio": "I am interested in connecting humanities with anything entrepreneurial!"
         },
         {
-          "name": "Erica Chan",
-          "pic": "static/img/people/EricaChan.jpg",
-          "byline": "CC '17, Political Science and East Asian Studies", 
-          "bio": "Through my time in CORE, I have worked on Women@CORE, Global TechTreks, and as well as numerous legal-related initiatives. I am always amazed at how tech can be applicable to society in so many different forms and the  way it has transformed how we connect and communicate. Apart from taking photos of coffee, I love volunteering at MoMA and exploring the city.",
+          "name": "Georgie Jones",
+          "pic": "static/img/people/georgie.jpg",
+          "byline": "BC '19"
+        }, 
+        {
+          "name": "Hannah Yoo",
+          "pic": "static/img/people/hannah.jpg",
+          "byline": "BC '19, Mathematical Sciences and Economics", 
+          "bio": "I’m most excited about reimagining the relationship between arts, business and technology and especially, the entrepreneurial minds behind these initiatives. Being a part of CORE, I’m constantly surrounded by fellow students who are changemakers and find inspiration create action. Outside of CORE, I look forward to my Discover Weekly Spotify playlist every Monday and am usually spotted at Joe’s Coffee drinking an",
           "socialmedia": {
-            "instagram": "http://twitter.com/chantieri",
-            "linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
+            "linkedin": "http://www.linkedin.com/in/hannah-yoo-519658112",
+            "instagram": "http://www.instagram.com/hannahsyoo"
           }
         },
         {
-          "name": "Gary Lin",
-          "pic": "static/img/people/garylin.jpg",
-          "byline": "SEAS '17, Computer Science", 
-          "bio": "I love meeting new people. Let's grab lunch?",
+          "name": "Kevin Zeng",
+          "pic": "static/img/people/kevin-z.jpg",
+          "byline": "SEAS '19"
+        }, 
+        {
+          "name": "Lamia Rahman",
+          "pic": "static/img/people/lamia.jpg",
+          "byline": "CC '20"
+        }, 
+        {
+          "name": "Meghna Gorrela",
+          "pic": "static/img/people/meghna.jpg",
+          "byline": "SEAS '20"
+        }, 
+        {
+          "name": "Millen Anand",
+          "pic": "static/img/people/millen.jpg",
+          "byline": "SEAS '20, Materials Science and Engineering and Computer Science", 
+          "bio": "In the fall 2016 semester, I am working on the Tech and Student Enterprises teams, helping to launch several new programs. I'm always thinking about problems in my community and how I can address them through entrepreneurship. I'm a diehard fan of DC sports teams and of Drake, and I always order the most unusual item on the menu.",
           "socialmedia": {
-            "linkedin": "https://linkedin.com/in/garymlin",
-            "website": "www.garymlin.com"
+            "linkedin": "https://www.linkedin.com/in/millen-anand-42067b126"
           }
         },
         {
-          "name": "Karen Yuan",
-          "pic": "static/img/people/karen.jpg",
-          "byline": "CC '17, Creative Writing",
-          "bio": "I work on social media for CORE. In the past, I've co-organized CORE's digital media conference and NYC tech treks. I'm psyched about all things digital and all things media, especially innovative journalism. And I'm constantly inspired by my CORE peers.",
+          "name": "Ninad Nirgudkar",
+          "pic": "static/img/people/ninad.jpg",
+          "byline": "CC ’20, Physics and Applied Math", 
+          "bio": "As a freshman OCL this year, I’m working on the Tech Treks team and the Finance Team.  I’m always thinking of ways to expand the entrepreneurship sphere and bring in new innovators who are disrupting nontraditional fields - like nuclear energy startups.  In my free time, I run long-distance, play piano, and miss my dog",
           "socialmedia": {
-            "twitter": "http://twitter.com/karenyuan_",
-            "external-link": "https://about.me/karenyuan"
+            "linkedin": "www.linkedin.com/in/ninadnirgudkar"
           }
+        },
+        {
+          "name": "Nir Kabessa",
+          "pic": "static/img/people/nir.jpg",
+          "byline": "GS '20"
+        }, 
+        {
+          "name": "Otto Shih",
+          "pic": "static/img/people/ottoshih.jpg",
+          "byline": "CC '19, Math", 
+          "bio": "As a sophomore, I'm working with internships and student enterprises to help Columbia students prepare for careers in entrepreneurship. In my spare time, I love photography, dim sum, and walking dogs!",
+          "socialmedia": {
+            "linkedin": "https://co.linkedin.com/in/ottoshih",
+            "website": "www.ottoshih.com"
+          }
+        },
+        {
+          "name": "Rachel Fischer",
+          "pic": "static/img/people/rachel.jpg",
+          "byline": "BC '20"
+        }, 
+        {
+           "name": "Sam Cohen",
+           "pic": "static/img/people/sam.jpg",
+           "byline": "SEAS '18, Computer Science", 
+           "bio": "I'm currently on the CORE Enterprises team, where we are now in the process of building small student-run businesses from the ground up. I'm also involved with ADI and a couple of intramural soccer teams. In my spare time, I love designing small video games and exploring all things outer space-- Over breaks you can generally find me peering through my Hubble-sized telescope.",
+           "socialmedia": {
+            "personal website": "samlouiscohen.com",
+            "linkedin": "https://www.linkedin.com/in/samlouiscohen"
+          }
+        },
+        {
+          "name": "Saraya Hamidi",
+          "pic": "static/img/people/saraya.jpg",
+          "byline": "CC ‘20, Economics-Philosophy", 
+          "bio": "As a freshman in fall 2016, I worked on CORE Enterprises and CoreX, where we work to promote diversity in business. I believe that through entrepreneurship, one can really have a positive impact on his or her community. Personal passions include diversity and social justice, and however unrelated, beauty and fashion."
+        },
+        {
+          "name": "Sherin Shibu",
+          "pic": "static/img/people/sherin.jpg",
+          "byline": "CC '20, Undecided", 
+          "bio": "I'm a part of building student enterprises, launching new programs on a university-wide level, and organizing global tech treks. My passions include reading as much as possible, thinking of new ways to enrich the world around me, and implementing the ideas I come up with."
+        },
+        {
+          "name": "Sim Mander",
+          "pic": "static/img/people/sim.jpg",
+          "byline": "CC '20"
+        }, 
+        {
+          "name": "Spencer Yen",
+          "pic": "static/img/people/spencer.jpg",
+          "byline": "SEAS '20"
+        }, 
+        {
+          "name": "Surbhi Lohia",
+          "pic": "static/img/people/surbhi.jpg",
+          "byline": "BC '19"
+        }, 
+        {
+          "name": "Tara Anand",
+          "pic": "static/img/people/tara-a.jpg",
+          "byline": "BC '20"
+        }, 
+        {
+          "name": "Tara Pichumani",
+          "pic": "static/img/people/tara-p.jpg",
+          "byline": "SEAS '18, Computer Science"
         },
         {
           "name": "Tenzan Wong",
@@ -228,7 +335,7 @@
         },
         {
           "name": "Tessa Hurr",
-          "pic": "static/img/people/DSC_1057.jpg",
+          "pic": "static/img/people/tessa.jpg",
           "byline": "SEAS '18, Computer Science",
           "bio": "Since joining CORE in the fall of 2015, I've helped work on initiatives including the JADE winter program. I'm interested in the intersection between art and technology and in the past have interned for Broadcom and Microsoft. In my spare time, I like to watch spoken word poetry.",          "socialmedia": {
             "linkedin": "https://www.linkedin.com/in/tessahurr"
@@ -240,191 +347,23 @@
           "byline": "CC '18, Computer Science"
         },
         {
-          "name": "Victoria Lee",
-          "pic": "static/img/people/VictoriaLee.jpg",
-          "byline": "SEAS '17, Operations Research", 
-          "bio": "In CORE, I've led the Women@CORE initiative / mentorship program and helped organize various workshops and panels, in subjects like food entrepreneurship! This year I'm helping launch some cool, student-led enterprises. In my spare time, I can be found cooking, playing jazz music, and exploring NYC.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/victorialee3"
-          }
-        }, 
-        {
-          "name": "Wynnie Newton",
-          "pic": "static/img/people/wynnie.jpg",
-          "byline": "BC '19, Economics"
-        }
-      ]
-    },
-    {
-      "type": "Operating Committee",
-      "names" : [
-        {
-          "name": "Abhinav Kurada",
-          "pic": "static/img/people/AbhinavKurada.jpg",
-          "byline": "SEAS '20, Biomedical Engineering", 
-          "bio": "@CORE I am mainly working on the Almaworks team and Ignite 2017. Moving forward, I hope to use the skills I have acquired in CORE and other clubs towards entrepreneurial endeavors in the medical field. Outside of CORE and Columbia I enjoy listening to rap music, attending hackathons, and supporting the New York Knicks.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/abhinavkurada",
-            "website": "http://www.akurada.tech"
-          }
-        },
-        {
-          "name": "Abigail Kim",
-          "pic": "static/img/people/abigail.jpg",
-          "byline": "BC '16, Art History",
-          "bio": "In fall 2014, I planned and moderated a panel on entrepreneurship in the fashion industry, featuring top-of-the-line fashion editors, bloggers, and designers. My focus in CORE has been on expanding our definition of entrepreneurship outside of tech to include innovators who push boundaries in creative fields. This year, I will be abroad, studying in Berlin, Germany.",
-          "socialmedia": {
-            "instagram": "https://instagram.com/abigailkim/"
-          }
-        },
-        {
-          "name": "Aku Acquaye",
-          "pic": "static/img/people/AkuAcquaye.jpg",
-          "byline": "BC '18, Political Economy", 
-          "bio": "Currently serving as an Operating Committee Leader in COREx and Global Entrepreneurship. I'm excited to challenge the idea of the typical entrepreneur by showcasing the talents of women and people of color in the events I put on on campus. In my spare time, I live for How to Get Away with Murder.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/akuacquaye18"
-          }
-        },
-        {
-          "name": "Alex Nicita",
-          "pic": "static/img/people/20161030-CORE_portraits_fall-0774.jpg",
-          "byline": "CC '20, Applied Mathematics and English", 
-          "bio": "As a first-year in the Fall of 2016, I worked with the Almaworks accelerator and CORE's Tech Team. As a young entrepreneur, I love looking at old problems through new lenses. When I'm not getting lost in Manhattan, you can find me playing some wiffleball or reading some Kerouac.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/alexander-nicita-17bl"
-          }
-        },
-        {
-          "name": "Austin Wang",
-          "pic": "static/img/people/AustinWang.jpg",
-          "byline": "CC '19, Economics and Sociology", 
-          "bio": "In my freshman year, I worked on a startup in the Almaworks accelerator, and became enamored with the world of entrepreneurship. I love all the amazing ideas in the startup world and currently work on the Finance and Internships teams. I love eating, listening to music and finding ways to not do work.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/austin-wang-849ab5111"
-          }
-        },
-        {
-          "name":"Charlotte Livingston" ,
-          "pic":"static/img/people/charlottelivingston.jpg" ,
-          "byline":"BC '19," , 
-          "bio": "I am driven by the multifaceted world of entrepreneurship that is united under a commitment to create and build. CORE provides me with connections that both broaden my perspective and challenge me to improve myself. Currently, I am in the Communications & Marketing and University Programs committees. I am involved in organizing a CORE outreach program, the Columbia Venture Competition, Ignite2017, and several speaking panels. Outside of CORE, some of my interests include hiking, Simon and Garfunkel, yoga, Alexander McQueen, NPR, Mark Rothko, and lateral thinking puzzles."
-        },
-        {
-          "name": "Hannah Yoo",
-          "pic": "static/img/people/HannahYoo.jpg",
-          "byline": "BC '19, Mathematical Sciences and Economics", 
-          "bio": "I’m most excited about reimagining the relationship between arts, business and technology and especially, the entrepreneurial minds behind these initiatives. Being a part of CORE, I’m constantly surrounded by fellow students who are changemakers and find inspiration create action. Outside of CORE, I look forward to my Discover Weekly Spotify playlist every Monday and am usually spotted at Joe’s Coffee drinking an",
-          "socialmedia": {
-            "linkedin": "http://www.linkedin.com/in/hannah-yoo-519658112",
-            "instagram": "http://www.instagram.com/hannahsyoo"
-          }
-        },
-        {
-          "name": "Ian Huang", 
-          "pic": "static/img/people/IanHuang.jpg", 
-          "byline": "CC '2020, Computer Science and Financial Economics", 
-          "bio": "I joined CORE as a freshman and I’m currently working on both the tech committee and the intercollegiate committee. I am also starting a student enterprise hoping to bring a more immersive visiting experience to prospective students touring Columbia. Through my past research projects dealing with AI and how it has the potential to solve so many problems, I’ve realized that I’m really passionate about the application of AI in both finance and medicine. When I’m not involved in CORE, I’m either trying to learn random stuff on the internet, playing violin or watching Narcos.", 
-          "socialmedia": { 
-            "linkedin": "https://www.linkedin.com/in/ian-huang-171b88127"
-          }
-        },
-        {
-          "name": "Heejin (Irene) Koo",
-          "pic": "static/img/people/IreneKoo.jpg",
-          "byline": "SEAS '20, Operations Research", 
-          "bio": "As a freshman in SEAS, I am currently working on IGNITE@CU, Startup Columbia, Global Tech Treks, and student enterprises. I was first introduced to entrepreneurship in junior year of my high school, and I am fascinated by how entrepreneurship ties in seemingly irrelevant fields and disciplines to pose multi-faceted solutions. When I am not procrastinating, I walk around campus and sleep.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/hee-jin-irene-koo-149833128"
-          }
-        },
-        {
-          "name": "Justice Betty",
-          "pic": "static/img/people/JusticeBetty.jpg",
-          "byline": "GS' 18 Dual BA with Sciences Po-Paris, Political Science", 
-          "bio": "Joined CORE as a junior after spending 2 years studying in France. I am passionate about using entrepreneurship to change the world and excited about CORE's continuously growing impact on Campus. Traveling and dancing with zero sense of rhythm are some of my favourite past times.", 
-          "socialmedia": {
-              "linkedin": "https://www.linkedin.com/in/justicebetty" 
-          }
-        },
-        {
-          "name": "Marie Sgouros",
-          "pic": "static/img/people/MarieSgouros.jpg",
-          "byline": "BC '19, Economics major and Mathematical Sciences minor" , 
-          "bio": "In CORE, I'm involved with coreX, finance, and university programs. I'm super interested in VC funding and making sure entrepreneurial spaces promote diversity and inclusivity. I'm currently working at a startup that wants to make VC more accessible to female entrepreneurs. In the past, I've been involved in Girl Scouts and the International Rescue Committee. I'm a college radio DJ on my show: Bisexual Underground. I like to cook. ENTJ.",
-          "socialmedia": {
-            "twitter": "https://twitter.com/marie_sgouros",
-            "facebook": "https://www.facebook.com/marie.sgouros",
-            "instagram": "https://www.instagram.com/marie.sgouros/"
-          }
-        },
-        {
-          "name": "Michael Retchin",
-          "pic": "static/img/people/20161102-CORE_portraits_fall-1041.jpg",
-          "byline": "CC '20, Computer Science and Economics", 
-          "bio": "I've always loved solving problems, and entrepreneurship is the most exciting way to do that. I feel very lucky to have worked with such talented people on the first Ignite startup hackathon and career fair, the Almaworks accelerator, the Disrupting Finance and Marketing panel series, the Berlin Tech Trek, and the Startup Columbia festival. I enjoy house music, House of Cards, and the lopsided, losing games of tennis I play with my friends.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/retchin"
-          }
-        },
-        {
-          "name": "Millen Anand",
-          "pic": "static/img/people/MillenAnand.jpg",
-          "byline": "SEAS '20, Materials Science and Engineering and Computer Science", 
-          "bio": "In the fall 2016 semester, I am working on the Tech and Student Enterprises teams, helping to launch several new programs. I'm always thinking about problems in my community and how I can address them through entrepreneurship. I'm a diehard fan of DC sports teams and of Drake, and I always order the most unusual item on the menu.",
-          "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/millen-anand-42067b126"
-          }
-        },
-        {
-          "name": "Ninad Nirgudkar",
-          "pic": "static/img/people/NinadNirgudkar.jpg",
-          "byline": "CC ’20, Physics and Applied Math", 
-          "bio": "As a freshman OCL this year, I’m working on the Tech Treks team and the Finance Team.  I’m always thinking of ways to expand the entrepreneurship sphere and bring in new innovators who are disrupting nontraditional fields - like nuclear energy startups.  In my free time, I run long-distance, play piano, and miss my dog",
-          "socialmedia": {
-            "linkedin": "www.linkedin.com/in/ninadnirgudkar"
-          }
-        },
-        {
-          "name": "Otto Shih",
-          "pic": "static/img/people/ottoshih.jpg",
-          "byline": "CC '19, Math", 
-          "bio": "As a sophomore, I'm working with internships and student enterprises to help Columbia students prepare for careers in entrepreneurship. In my spare time, I love photography, dim sum, and walking dogs!",
-          "socialmedia": {
-            "linkedin": "https://co.linkedin.com/in/ottoshih",
-            "website": "www.ottoshih.com"
-          }
-        },
-        {
-           "name": "Sam Cohen",
-           "pic": "static/img/people/SamCohen.jpg",
-           "byline": "SEAS '18, Computer Science", 
-           "bio": "I'm currently on the CORE Enterprises team, where we are now in the process of building small student-run businesses from the ground up. I'm also involved with ADI and a couple of intramural soccer teams. In my spare time, I love designing small video games and exploring all things outer space-- Over breaks you can generally find me peering through my Hubble-sized telescope.",
-           "socialmedia": {
-            "personal website": "samlouiscohen.com",
-            "linkedin": "https://www.linkedin.com/in/samlouiscohen"
-          }
-        },
-        {
-          "name": "Saraya Hamidi",
-          "pic": "static/img/people/SarayaHamidi.jpg",
-          "byline": "CC ‘20, Economics-Philosophy", 
-          "bio": "As a freshman in fall 2016, I worked on CORE Enterprises and CoreX, where we work to promote diversity in business. I believe that through entrepreneurship, one can really have a positive impact on his or her community. Personal passions include diversity and social justice, and however unrelated, beauty and fashion."
-        },
-        {
-          "name": "Sherin Shibu",
-          "pic": "static/img/people/SherinShibu.jpg",
-          "byline": "CC '20, Undecided", 
-          "bio": "I'm a part of building student enterprises, launching new programs on a university-wide level, and organizing global tech treks. My passions include reading as much as possible, thinking of new ways to enrich the world around me, and implementing the ideas I come up with."
-        },
-        {
           "name": "Vasudha Rengarajan",
-          "pic": "static/img/people/VasudhaRengarajan.jpg",
+          "pic": "static/img/people/vasudha.jpg",
           "byline": "SEAS '19, Computer Science", 
           "bio": "In my first year at Columbia, I participated in the Women@CORE mentorship program, getting the exclusive opportunity to speak with female influencers like Carine Magescas, co-founder of AngelPad. A year later, I've joined CORE and am working on Tech and Student Enterprises. I love to code, dance, write, and travel.",
           "socialmedia": {
             "linkedin": "https://www.linkedin.com/in/vasudha-rengarajan-90700364"
           }
+        },
+        {
+          "name": "Veronica Lim",
+          "pic": "static/img/people/veronica.jpg",
+          "byline": "CC '20"
+        },
+        {
+          "name": "Wynnie Newton",
+          "pic": "static/img/people/wynnie.jpg",
+          "byline": "BC '19, Economics"
         }
       ]
     }

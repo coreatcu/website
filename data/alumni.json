@@ -102,6 +102,145 @@
           "bio": "I will be graduating in the spring and moving to San Francisco to work full-time at Google! Currently, I'm working on Almaworks, CORE's student-run accelerator. Long-term, I hope to get involved in an early-stage technology startup or launch my own venture."
         }
       ]
+    },
+    {
+      "year": "2017",
+      "names": [
+        {
+          "name": "Abigail Kim",
+          "pic": "static/img/people/abigail.jpg",
+          "byline": "BC '16, Art History",
+          "bio": "In fall 2014, I planned and moderated a panel on entrepreneurship in the fashion industry, featuring top-of-the-line fashion editors, bloggers, and designers. My focus in CORE has been on expanding our definition of entrepreneurship outside of tech to include innovators who push boundaries in creative fields. This year, I will be abroad, studying in Berlin, Germany.",
+          "socialmedia": {
+            "instagram": "https://instagram.com/abigailkim/"
+          }
+        },
+        {
+          "name": "Amal Abid",
+          "pic": "static/img/people/amal.jpg",
+          "byline": "CC '17, Computer Science",
+          "socialmedia": {
+            "twitter": "http://twitter.com/amalabid"
+          }
+        },
+        {
+          "name": "Erica Chan",
+          "pic": "static/img/people/erica.jpg",
+          "byline": "CC '17, Political Science and East Asian Studies", 
+          "bio": "Through my time in CORE, I have worked on Women@CORE, Global TechTreks, and as well as numerous legal-related initiatives. I am always amazed at how tech can be applicable to society in so many different forms and the  way it has transformed how we connect and communicate. Apart from taking photos of coffee, I love volunteering at MoMA and exploring the city.",
+          "socialmedia": {
+            "instagram": "http://twitter.com/chantieri",
+            "linkedin": "https://www.linkedin.com/in/amulya-kandikonda-75a996105"
+          }
+        },
+        {
+          "name": "Gary Lin",
+          "pic": "static/img/people/garylin.jpg",
+          "byline": "SEAS '17, Computer Science", 
+          "bio": "I love meeting new people. Let's grab lunch?",
+          "socialmedia": {
+            "linkedin": "https://linkedin.com/in/garymlin",
+            "website": "www.garymlin.com"
+          }
+        },
+        {
+          "name": "George Liu",
+          "pic": "static/img/people/george.jpg",
+          "byline": "CC '17, Economics",
+          "bio": "My past initiatives include serving as CORE's treasurer, leading the How to Start a Startup discussion seminars, co-organizing the CORE Product Challenge, and running CORE 3D printing initiatives. I'm currently the executive director of Almaworks, Columbia University's fall startup accelerator for New York college entrepreneurs.",
+          "socialmedia": {
+            "twitter": "http://twitter.com/gxzliu"
+          }
+        },
+        {
+          "name": "Jackie Luo",
+          "pic": "static/img/people/jackie.jpg",
+          "byline": "CC '17, Computer Science and Philosophy",
+          "bio": "I joined CORE at the start of college and served as vice president my sophomore year. I've led initiatives like #StartupColumbia, Ignite@CU, and our Silicon Valley tech trek, and I'm currently working on our technical infrastructure from San Francisco, where I'm working at a startup called Nylas.",
+          "socialmedia": {
+            "link": "http://jackiehluo.github.io",
+            "twitter": "http://twitter.com/jackiehluo"
+          }
+        },
+        {
+          "name": "James Xue",
+          "pic": "static/img/people/james.jpg",
+          "title": "Senior Advisor to Impulse",
+          "byline": "SEAS '17, Computer Science",
+          "bio": "I've been with CORE Impulse since it was just \"the blog\" back in 2013, and I'm currently the editor-in-chief. We've grown a talented team, a large audience, and a site with some awesome content! I've worked at a tech startup in Hong Kong, a research lab in Tokyo, startups in NYC, and an IT consultancy in London. I also like Game of Thrones!",
+          "socialmedia": {
+            "twitter": "http://twitter.com/therealjamesxue"
+          }
+        },
+        {
+          "name": "Karen Yuan",
+          "pic": "static/img/people/karen.jpg",
+          "byline": "CC '17, Creative Writing",
+          "bio": "I work on social media for CORE. In the past, I've co-organized CORE's digital media conference and NYC tech treks. I'm psyched about all things digital and all things media, especially innovative journalism. And I'm constantly inspired by my CORE peers.",
+          "socialmedia": {
+            "twitter": "http://twitter.com/karenyuan_",
+            "external-link": "https://about.me/karenyuan"
+          }
+        },
+        {
+          "name": "Kat Moon",
+          "pic": "static/img/people/kat.jpg",
+          "byline": "CC '17, English and Psychology", 
+          "bio": "During my time in CORE, I've launched the Spring Break Global Tech Treks Program, hosted Arianna Huffington on campus, and introduced students to international founders in NYC. When I'm not serving in InterVarsity Christian Fellowship, I'm either watching NBA games (go Timberwolves!) or searching for the best Taiwanese beef noodles in the city.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/katherinemoon",
+            "twitter": "https://twitter.com/katxmoon"
+          }
+        },
+        {
+          "name": "Miranda Li",
+          "pic": "static/img/people/mirandali.jpg",
+          "byline": "CC '17, Computer Science and Economics-Philosophy", 
+          "bio": "I'm a senior who has been in CORE (almost) as long as I've been at Columbia! I've loved helping the organization develop and grow in the past 4 years. I founded the Startup Internship Program and try to provide a helping hand to whoever needs it. Other things I love to do are listen to audiobooks, play squash, play board games, do economics research, find new restaurants and coffee shops in New York, and tweet.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/mirandali",
+            "twitter": "https://twitter.com/mirandajli"
+          }
+        },
+        {
+          "name": "Sahir Jaggi",
+          "pic": "static/img/people/sahir.jpg",
+          "byline": "SEAS '17, Biomedical Engineering",
+          "bio": "I'm a founding member of the Columbia Makerspace and currently working on CORE's entrepreneurship orientation program, which introduces first-year students to the startup world.",
+          "socialmedia": {
+            "twitter": "http://twitter.com/sahirjaggi"
+          }
+        },
+        {   
+           "name": "Simon Schwartz",   
+           "pic": "static/img/people/simon.jpg",   
+           "byline": "CC '17, Philosophy and Statistics",    
+           "bio": "I grew up on a farm in Virginia, which, as I tell anyone who listens, has prepared me uniquely for life as an entrepreneur. I joined CORE as a freshman and knew instantly that it was the most useful thing I'd do at CU. I've spent time in VC, as well as hardware and finance startups, and spend my free time thinking how entrepreneurship can help rural communities.",    
+           "socialmedia": {    
+             "twitter": "http://twitter.com/simonamschwartz"   
+            }             
+        },
+        {
+          "name":"Tom Sherborne",
+          "pic":"static/img/people/tom.jpg",
+          "byline":"UCL '17 MEng Electronic Engineering",
+          "bio":"I spent my junior year studying abroad at Columbia. I was part of the original team for both Almaworks and IPO, and I also helped make Ignite@CU and #StartupColumbia happen. I'm interested the interaction of machine learning and data bias, and how probabilistic mechanisms can be used to understand the influence of news data in society.",
+          "socialmedia":{
+            "linkedin":"https://www.linkedin.com/in/tomsh",
+            "twitter":"https://twitter.com/TSherborne",
+            "website":"https://github.com/trsherborne"
+          }
+        },
+        {
+          "name": "Victoria Lee",
+          "pic": "static/img/people/victoria.jpg",
+          "byline": "SEAS '17, Operations Research", 
+          "bio": "In CORE, I've led the Women@CORE initiative / mentorship program and helped organize various workshops and panels, in subjects like food entrepreneurship! This year I'm helping launch some cool, student-led enterprises. In my spare time, I can be found cooking, playing jazz music, and exploring NYC.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/victorialee3"
+          }
+        } 
+      ]
     }
   ]
 }
