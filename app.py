@@ -51,9 +51,9 @@ def sip():
 def corecircles():
     return render_template('corecircles.html')
 
-@app.route('/housing-lotto-16-17')
+@app.route('/housing-lotto-17-18')
 def housing_16_17():
-    return redirect("https:\/\/docs.google.com/spreadsheets/d/1Mn6v5vvHK5pr1A_EWYtr9HfRU3tB7fmvUCwETlDHhW8/edit?usp=sharing")
+    return redirect("https://docs.google.com/spreadsheets/d/1OUE5skI044g2JKiGN9vJmeyHm77a6dlChUAFTQqFrEg/edit?usp=sharing")
 
 @app.route('/infographic/<infographic_item>')
 def infographic_path(infographic_item):
