@@ -80,9 +80,9 @@ def contact():
         return redirect(url_for('index'))
     return render_template('contact.html', form=form)
 
-@app.route('/apply')
-def apply():
-    return render_template('apply.html')
+# @app.route('/apply')
+# def apply():
+#     return render_template('apply.html')
 
 @app.route('/townhall')
 def townhall():
