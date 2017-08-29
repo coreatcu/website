@@ -1,5 +1,5 @@
 {
-  "committees": [
+  "initiatives": [
 	 {
 		"type": "University Programs",
 		"label": "University Programs",
@@ -30,7 +30,7 @@
 	{
 		"type": "Intercollegiate Programs",
 		"label": "Intercollegiate Programs",
-		"description": "CORE’s Intercollegiate team connects with organizations at other universities that share common goals with CORE. We have connected students across different schools through blockbuster events such as Ignite@CU and the Intercollegiate Pitch Off (IPO) to form powerful and lasting relationships.", 
+		"description": "CORE’s Intercollegiate team connects with organizations at other universities that share common goals with CORE. We have connected students across different schools through blockbuster events such as Ignite@CU and the Intercollegiate Pitch Off (IPO) to form powerful and lasting relationships.",
 		"image": "static/img/initiatives/intercollegiate.jpg",
 		"link": "http://ignite.coreatcu.com"
 	},
@@ -44,15 +44,15 @@
 	{
 		"type": "Communications & Marketing",
 		"label": "Communications & Marketing",
-		"description": "As the creative face of CORE, the Communications & Marketing team looks after the consistency and advancement of CORE's brand and message through thoughtful design, marketing, and multimedia. We carry out our mission via CORE's newsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance, and raise awareness of CORE's mission and initiatives.", 
+		"description": "As the creative face of CORE, the Communications & Marketing team looks after the consistency and advancement of CORE's brand and message through thoughtful design, marketing, and multimedia. We carry out our mission via CORE's newsletters, social media, and campus-wide growth hacking in order to support the organization's operations, boost attendance, and raise awareness of CORE's mission and initiatives.",
 		"image": "static/img/initiatives/c_and_m.jpg"
 	},
 	{
 		"type": "coreX",
 		"label": "coreX",
-		"description": "coreX supports underrepresented founders and entrepreneurs and encourages unconventional entrepreneurship throughout Columbia through discussions, film screenings, and speaker events. Each fall, the Women@CORE mentorship program connects Columbia students with women in entrepreneurship for an intensive and nurturing mentorship program.", 
+		"description": "coreX supports underrepresented founders and entrepreneurs and encourages unconventional entrepreneurship throughout Columbia through discussions, film screenings, and speaker events. Each fall, the Women@CORE mentorship program connects Columbia students with women in entrepreneurship for an intensive and nurturing mentorship program.",
 		"image": "static/img/initiatives/coreX.jpg",
-		"link": "https://www.coreatcu.com/womenatcore"	
+		"link": "https://www.coreatcu.com/womenatcore"
 	}
   ]
 }

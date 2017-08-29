@@ -4,7 +4,7 @@
   <div class="mdl-grid">
     <div class="mdl-cell mdl-cell--2-col">
       <div class="navigation-bar" id="initiatives-navigation">
-      {% for initiative in committees %}
+      {% for initiative in initiatives%}
             <div class="navigation-bar-item">
             <a href="{{'#' + initiative.type.replace(' ', '-').lower()}}">
               <div class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
@@ -17,7 +17,7 @@
     </div>
     <div class="mdl-cell mdl-cell--10-col">
       <div class="mdl-grid">
-      {% for initiative in committees %}
+      {% for initiative in initiatives %}
         <div class="mdl-cell initiatives-card mdl-card mdl-shadow--2dp" style="height: 530px">
           <div class="section" id="{{initiative.type.replace(' ', '-').lower()}}">
     	      <div class="mdl-card__title">
@@ -28,7 +28,7 @@
                 <img src={{initiative["image"]}} style="max-width: 95%; max-height: 300px;">
               </div>
             {% endif %}
-            <div class="mdl-card__supporting-text"> 
+            <div class="mdl-card__supporting-text">
 		 {{initiative.description}}
              </div>
              {% if initiative.link %}

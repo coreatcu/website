@@ -27,7 +27,7 @@ def load_data():
 def index():
     return render_template('index.html')
 
-@app.route('/committees')
+@app.route('/initiatives')
 def initiatives():
     return render_template('initiatives.html', **data['initiatives'])
 
