@@ -3,6 +3,8 @@
 *.sqlite
 .DS_Store
 .coverage
+p_*
+lib*
 
 #virtualenv
 .Python
