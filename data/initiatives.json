@@ -1,23 +1,23 @@
 {
   "initiatives": [
 	 {
-		"type": "University Programs",
-		"label": "University Programs",
-		"description": "University Programs collaborates with Columbia Entrepreneurship and Columbia University’s undergraduate schools to showcase the breadth of entrepreneurship at Columbia. We run the annual Startup Columbia entrepreneurship festival and coordinate the Undergraduate Challenge of the $250,000 Columbia Venture Competition. ",
+		"type": "Startup Columbia",
+		"label": "Startup Columbia",
+		"description": "The Startup Columbia and Columbia Venture Competition team collaborates with Columbia Entrepreneurship and Columbia University’s undergraduate schools to showcase the breadth of entrepreneurship at Columbia. We run the annual Startup Columbia entrepreneurship festival and coordinate the Undergraduate Challenge of the $250,000 Columbia Venture Competition. ",
 		"image": "static/img/initiatives/programs.jpg",
 		"link": ["http://www.startupcolumbia.org", "https://www.coreatcu.com/cvc"]
 	},
 	{
-		"type": "Ventures",
-		"label": "Ventures",
-		"description": "The Ventures team helps student founders in the Columbia community launch successful companies by providing the resources and support that allow student entrepreneurs to go from zero to a hundred. Almaworks, our flagship initiative and Columbia’s first and only student-run accelerator program, has supported over 25 Columbia startups that have won major pitch competitions, advanced to prestigious incubator programs, and have gone on to raise over $4 million in seed funding.",
+		"type": "Almaworks",
+		"label": "Almaworks",
+		"description": "The Almaworks team helps student founders in the Columbia community launch successful companies by providing the resources and support that allow student entrepreneurs to go from zero to a hundred. Almaworks, our flagship initiative and Columbia’s first and only student-run accelerator program, has supported over three dozen Columbia startups that have won major pitch competitions, advanced to prestigious incubator programs, and have gone on to raise over $4 million in seed funding.",
 		"image": "static/img/initiatives/Ventures.jpg",
 		"link": "http://www.alma.works"
 	},
 	{
-		"type": "Global Entrepreneurship",
-		"label": "Global Entrepreneurship",
-		"description": "The Global Entrepreneurship team expands CORE’s horizons across the globe. Whether we're organizing our annual Spring Break Global Tech Treks or hosting foreign exchange students in NYC for some of our larger conferences, we focus on exploring what entrepreneurship means abroad and from a global perspective.",
+		"type": "Global Tech Treks",
+		"label": "Global Tech Treks",
+		"description": "The Global Tech Treks team expands CORE’s horizons across the globe. Whether we're organizing our annual Spring Break Global Tech Treks or hosting foreign exchange students in NYC for some of our larger conferences, we focus on exploring what entrepreneurship means abroad and from a global perspective.",
 		"image": "static/img/initiatives/global.jpg",
 		"link": "http://techtreks.coreatcu.com/"
 	},
@@ -35,9 +35,9 @@
 		"link": "http://ignite.coreatcu.com"
 	},
 	{
-		"type": "Internships & Mentorships",
-		"label": "Internships & Mentorships",
-		"description": "The Internships & Mentorship committee works closely with New York City’s most exciting startups to connect students with unparalleled access to high-quality startup experiences at early-stage companies. We collaborate with the Center for Career Education (CCE) to offer the Startup Internship Program each year to place students into spring internships with entrepreneurial startup teams in the city.",
+		"type": "Startup Internship Program",
+		"label": "Startup Internship Program",
+		"description": "The Startup Internship Program team works closely with New York City’s most exciting startups to connect students with unparalleled access to high-quality startup experiences at early-stage companies. We collaborate with the Center for Career Education (CCE) to offer the Startup Internship Program each year to place students into spring internships with entrepreneurial startup teams in the city.",
 		"image": "static/img/initiatives/Internships.jpg",
 		"link": "https://www.careereducation.columbia.edu/findajob/cce-internship/sip"
 	},
@@ -50,10 +50,9 @@
 	{
 		"type": "coreX",
 		"label": "coreX",
-		"description": "coreX supports underrepresented founders and entrepreneurs and encourages unconventional entrepreneurship throughout Columbia through discussions, film screenings, and speaker events. Each fall, the Women@CORE mentorship program connects Columbia students with women in entrepreneurship for an intensive and nurturing mentorship program.",
+		"description": "Women@CORE and CORE Q/Ts are affinity groups supporting underrepresented founders and entrepreneurs, furthering our theme of unconventional entrepreneurship throughout Columbia through discussions, film screenings, and speaker events. Each fall, the Women@CORE mentorship program connects Columbia students with women in entrepreneurship for an intensive and nurturing mentorship program.",
 		"image": "static/img/initiatives/coreX.jpg",
 		"link": "https://www.coreatcu.com/womenatcore"
 	}
   ]
 }
-
