@@ -86,7 +86,7 @@ def contact():
 
 @app.route('/townhall')
 def townhall():
-	return redirect("https://www.facebook.com/events/114365382587855/")
+	return redirect("https://www.facebook.com/events/224556848408786/")
 
 @app.errorhandler(404)
 def page_not_found(e):
