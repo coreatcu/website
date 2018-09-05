@@ -8,8 +8,10 @@
           "pic": "static/img/people/alan.jpg",
           "byline": "CC '20, Computer Science",
           "bio": "EVE",
-          "socialmedia": "https://www.linkedin.com/in/alan-yao/"
-        },
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/alan-yao/"
+            }
+          },
         {
           "name": "Angela Liu",
           "pic": "static/img/people/angela.jpg",
@@ -31,7 +33,10 @@
           "name": "Charlotte Livingston",
           "pic": "static/img/people/charlotte.jpg",
           "byline": "BC '19, English",
-          "bio": "I am driven by the multifaceted world of entrepreneurship that is united under a commitment to create and build. CORE provides me with connections that both broaden my perspective and challenge me to improve myself. Currently, I am in the Communications & Marketing and University Programs committees. I am involved in organizing a CORE outreach program, the Columbia Venture Competition, Ignite2017, and several speaking panels. Outside of CORE, some of my interests include hiking, Simon and Garfunkel, yoga, Alexander McQueen, NPR, Mark Rothko, and lateral thinking puzzles."
+          "bio": "I am driven by the multifaceted world of entrepreneurship that is united under a commitment to create and build. CORE provides me with connections that both broaden my perspective and challenge me to improve myself. Currently, I am in the Communications & Marketing and University Programs committees. I am involved in organizing a CORE outreach program, the Columbia Venture Competition, Ignite2017, and several speaking panels. Outside of CORE, some of my interests include hiking, Simon and Garfunkel, yoga, Alexander McQueen, NPR, Mark Rothko, and lateral thinking puzzles.",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/charlotte-livingston-26680b131/"
+          }
         },
         {
           "name": "Irene Koo",
@@ -144,7 +149,10 @@
         {
           "name": "Helen Lu",
           "pic": "static/img/people/helen.jpg",
-          "byline": "CC '19"
+          "byline": "CC '19",
+          "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/helen-lu-013a04102/"
+          }
         },
         {
           "name": "Mohamed Abedelmalik",
