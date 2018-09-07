@@ -531,8 +531,7 @@ textarea {
   thead {
     display: table-header-group;
     /* h5bp.com/t */ }
-  tr,
-  img {
+  tr {
     page-break-inside: avoid; }
   img {
     max-width: 100% !important; }
