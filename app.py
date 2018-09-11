@@ -88,6 +88,10 @@ def contact():
 def townhall():
 	return redirect("https://www.facebook.com/events/1021024851391738/")
 
+@app.route('/citi')
+def townhall():
+	return redirect("https://coreatcu.wufoo.com/forms/citi-ventures-at-columbia-hackathon/")
+
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('404.html'), 404
