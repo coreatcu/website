@@ -89,7 +89,7 @@ def townhall():
 	return redirect("https://www.facebook.com/events/1021024851391738/")
 
 @app.route('/citi')
-def townhall():
+def citi():
 	return redirect("https://coreatcu.wufoo.com/forms/citi-ventures-at-columbia-hackathon/")
 
 @app.errorhandler(404)
