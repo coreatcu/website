@@ -5,6 +5,8 @@
 .coverage
 p_*
 lib*
+dist/
+build/
 
 #virtualenv
 .Python
