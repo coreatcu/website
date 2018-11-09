@@ -10,6 +10,7 @@ build/
 
 #virtualenv
 .Python
+venv/
 bin/
 include/
 lib/
