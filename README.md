@@ -22,8 +22,17 @@ To update the live website to the latest version from GitHub:
 ssh core@159.65.191.95                 # Ask website maintainers for password.
 cd app
 git pull                               # Pull latest changes from this repo.
+
+# Optional, but HIGHLY RECOMMENDED TO AVOID SERIOUS HEADACHES
+ufw allow 5000                         # Enable port 5000.
+source <path-to-virtualenv>            # Activate virtual environment.
+gunicorn --bind 0.0.0.0:5000 wsgi:app  # Test the app on port 5000.
+ufw delete allow 5000
+
 sudo systemctl restart app.service     # Restart systemd unit file.
 ```
+
+*Still seeing problems with deployment?* Try `systemctl status app.service` to see issues in the systemd unit file.
 
 ## Material Design vs. Bootstrap
 

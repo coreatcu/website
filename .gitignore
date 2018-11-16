@@ -5,9 +5,12 @@
 .coverage
 p_*
 lib*
+dist/
+build/
 
 #virtualenv
 .Python
+venv/
 bin/
 include/
 lib/
