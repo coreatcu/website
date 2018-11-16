@@ -88,6 +88,10 @@ def contact():
 def townhall():
 	return redirect("https://www.facebook.com/events/1021024851391738/")
 
+@app.route('/guide')
+def guide():
+	return redirect("https://coreatcu.github.io/SoYouWantToStartAStartup/")
+
 @app.route('/citi')
 def citi():
 	return redirect("https://coreatcu.wufoo.com/forms/citi-ventures-at-columbia-hackathon/")
