@@ -1,5 +1,5 @@
 from flask import Flask, redirect, render_template, request, url_for
-from flask_mail import Mail
+from flask_mail import Mail, Message
 import simplejson
 import os
 from flask_sslify import SSLify
@@ -70,7 +70,7 @@ def alumni():
 def contact():
     form = ContactForm()
     if form.validate_on_submit():
-        print form.email.data
+        print(form.email.data)
         msg = Message(form.subject.data,
                     recipients=[(form.name.data, form.email.data),
                                 ('CORE Board', 'coreboard@columbia.edu')])
